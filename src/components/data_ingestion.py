@@ -19,7 +19,7 @@ class DataIngestion:
         self.data_ingestion_config = DataIngestionConfig()
 
     def inititate_data_ingestion(self):
-        
+                
         logging.info("Enter the data ingestion method or component")
         
         try:
@@ -50,6 +50,6 @@ class DataIngestion:
             raise CustomException(e,sys)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     obj = DataIngestion()
     obj.inititate_data_ingestion()

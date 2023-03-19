@@ -1,5 +1,3 @@
-## End to end Machine Learning Project
-
 #Project Activites
 ##Project Setup
 1. First create git repository for this project
