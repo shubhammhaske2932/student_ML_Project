@@ -1,0 +1,1001 @@
+PO_Date,PO_Number,Item_ID,Item_Description,Manufacturer_Name,Manufacturer_ID,Lowest_Unit_Of_Measure,Purchasing_Unit_Of_Measure,Vendor_Name,Vendor_ID,Vendor_City,Vendor_Active_Status,Contract_ID,Contract_Description,Contract_Type,Contract_Start_Date,Contract_End_Date,Contract_Price(Million) ,Contract_UOM,Unit_Of_Measure,Unit_Of_Measure_In_Number,Quantity_(at_UOM),Price_Per_UOM ($),Total_Price ($),Department
+22-06-2022,PO0001,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,48,150,7200,Outpatient Department
+11-08-2022,PO0002,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,4,60,240,Surgical Department
+24-08-2021,PO0003,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,34,2000,68000,Paramedical Department
+31-05-2021,PO0004,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,29,8,232,Paramedical Department
+13-11-2022,PO0005,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,5,20,100,Surgical Department
+16-01-2022,PO0006,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,35,5,175,Paramedical Department
+22-06-2021,PO0007,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,47,100,4700,Nursing Department
+10-10-2022,PO0008,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,6,10,60,Outpatient Department
+23-10-2021,PO0009,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,10,200,2000,Nursing Department
+04-05-2022,PO0010,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,30,5,150,Nursing Department
+11-10-2021,PO0011,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,25,1200,30000,Radiology Department
+03-09-2021,PO0012,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,48,150,7200,Nursing Department
+10-09-2022,PO0013,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,32,35,1120,Surgical Department
+08-09-2022,PO0014,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,19,144,2736,Surgical Department
+06-09-2022,PO0015,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,2,1750,3500,Paramedical Department
+18-07-2021,PO0016,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,41,2000,82000,Nursing Department
+22-04-2021,PO0017,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,15,2,30,Radiology Department
+03-02-2022,PO0018,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,7,13,91,Surgical Department
+05-09-2021,PO0019,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,11,10,110,Outpatient Department
+06-11-2022,PO0020,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,19,120,2280,Radiology Department
+30-05-2022,PO0021,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,41,100,4100,Surgical Department
+02-04-2022,PO0022,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,22,600,13200,Surgical Department
+22-10-2021,PO0023,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,45,1,45,Nursing Department
+31-07-2021,PO0024,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,7,250,1750,Surgical Department
+25-01-2022,PO0025,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,47,10,470,Surgical Department
+27-05-2021,PO0026,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,38,35,1330,Surgical Department
+24-09-2022,PO0027,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,24,180,4320,Outpatient Department
+30-06-2021,PO0028,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,2,1600,3200,Radiology Department
+09-05-2022,PO0029,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,11,60,660,Surgical Department
+13-08-2022,PO0030,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,18,60,1080,Surgical Department
+14-06-2022,PO0031,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,24,3000,72000,Paramedical Department
+05-05-2021,PO0032,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,41,85,3485,Outpatient Department
+22-08-2021,PO0033,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,16,15,240,Nursing Department
+10-10-2021,PO0034,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,16,5,80,Paramedical Department
+12-08-2022,PO0035,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,31,250,7750,Surgical Department
+05-10-2022,PO0036,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,12,1200,14400,Paramedical Department
+26-01-2022,PO0037,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,47,1500,70500,Outpatient Department
+03-10-2021,PO0038,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,17,80,1360,Surgical Department
+07-09-2022,PO0039,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,29,165,4785,Nursing Department
+18-07-2021,PO0040,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,8,1250,10000,Nursing Department
+09-06-2021,PO0041,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,7,5,35,Surgical Department
+21-08-2021,PO0042,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,42,7,294,Nursing Department
+04-10-2022,PO0043,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,20,180,3600,Surgical Department
+10-09-2021,PO0044,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,35,10,350,Nursing Department
+01-10-2021,PO0045,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,20,100,2000,Nursing Department
+27-04-2021,PO0046,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,44,2000,88000,Radiology Department
+25-10-2022,PO0047,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,4,875,3500,Surgical Department
+17-10-2022,PO0048,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,5,20,100,Radiology Department
+15-11-2022,PO0049,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,37,260,9620,Nursing Department
+23-05-2022,PO0050,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,8,12,96,Paramedical Department
+26-06-2021,PO0051,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,30,7,210,Nursing Department
+08-08-2021,PO0052,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,18,300,5400,Outpatient Department
+04-07-2021,PO0053,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,2,15,30,Paramedical Department
+02-05-2021,PO0054,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,3,12,36,Radiology Department
+11-12-2022,PO0055,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,5,60,300,Nursing Department
+20-10-2022,PO0056,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,27,150,4050,Surgical Department
+18-12-2021,PO0057,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,17,60,1020,Nursing Department
+30-03-2022,PO0058,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,47,2000,94000,Nursing Department
+09-02-2022,PO0059,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,22,8,176,Paramedical Department
+11-02-2022,PO0060,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,10,20,200,Paramedical Department
+14-07-2021,PO0061,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,14,5,70,Paramedical Department
+06-03-2022,PO0062,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,18,100,1800,Nursing Department
+21-12-2021,PO0063,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,18,10,180,Paramedical Department
+06-05-2022,PO0064,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,22,200,4400,Radiology Department
+06-03-2022,PO0065,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,22,5,110,Paramedical Department
+17-03-2022,PO0066,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,9,1200,10800,Surgical Department
+04-05-2022,PO0067,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,2,150,300,Surgical Department
+21-02-2022,PO0068,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,15,35,525,Nursing Department
+04-12-2022,PO0069,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,18,144,2592,Nursing Department
+23-06-2022,PO0070,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,20,1750,35000,Surgical Department
+02-10-2021,PO0071,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,22,2000,44000,Paramedical Department
+28-01-2022,PO0072,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,24,2,48,Outpatient Department
+30-11-2022,PO0073,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,39,13,507,Paramedical Department
+28-09-2021,PO0074,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,14,10,140,Nursing Department
+06-07-2022,PO0075,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,33,120,3960,Nursing Department
+18-03-2022,PO0076,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,40,100,4000,Surgical Department
+14-12-2022,PO0077,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,19,600,11400,Nursing Department
+02-07-2022,PO0078,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,38,1,38,Surgical Department
+25-09-2021,PO0079,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,41,250,10250,Surgical Department
+23-12-2021,PO0080,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,33,10,330,Surgical Department
+05-01-2022,PO0081,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,15,35,525,Surgical Department
+25-12-2021,PO0082,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,37,180,6660,Surgical Department
+19-04-2022,PO0083,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,40,1600,64000,Nursing Department
+29-09-2021,PO0084,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,6,60,360,Outpatient Department
+29-12-2022,PO0085,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,49,60,2940,Nursing Department
+20-07-2021,PO0086,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,27,3000,81000,Surgical Department
+11-08-2022,PO0087,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,45,85,3825,Paramedical Department
+30-10-2022,PO0088,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,38,15,570,Paramedical Department
+29-11-2022,PO0089,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,27,5,135,Paramedical Department
+13-11-2022,PO0090,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,45,250,11250,Outpatient Department
+02-09-2021,PO0091,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,26,1200,31200,Nursing Department
+31-08-2022,PO0092,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,12,1500,18000,Radiology Department
+12-07-2021,PO0093,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,1,80,80,Paramedical Department
+19-03-2022,PO0094,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,50,165,8250,Outpatient Department
+10-04-2022,PO0095,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,15,1250,18750,Nursing Department
+28-10-2021,PO0096,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,4,5,20,Surgical Department
+03-02-2022,PO0097,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,32,7,224,Paramedical Department
+19-08-2022,PO0098,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,27,180,4860,Radiology Department
+05-12-2021,PO0099,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,43,10,430,Nursing Department
+22-09-2021,PO0100,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,45,100,4500,Nursing Department
+05-07-2022,PO0101,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,44,2000,88000,Nursing Department
+29-11-2022,PO0102,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,15,875,13125,Surgical Department
+19-04-2022,PO0103,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,31,20,620,Outpatient Department
+05-10-2021,PO0104,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,12,260,3120,Outpatient Department
+30-07-2022,PO0105,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,14,12,168,Outpatient Department
+18-05-2021,PO0106,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,41,7,287,Outpatient Department
+04-11-2021,PO0107,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,6,300,1800,Surgical Department
+10-12-2022,PO0108,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,9,15,135,Surgical Department
+18-03-2022,PO0109,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,26,12,312,Surgical Department
+28-11-2022,PO0110,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,8,60,480,Paramedical Department
+25-06-2022,PO0111,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,7,150,1050,Nursing Department
+23-03-2022,PO0112,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,9,60,540,Surgical Department
+13-04-2022,PO0113,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,5,2000,10000,Paramedical Department
+21-05-2022,PO0114,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,36,8,288,Outpatient Department
+24-02-2022,PO0115,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,18,20,360,Surgical Department
+29-05-2022,PO0116,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,47,5,235,Nursing Department
+09-12-2021,PO0117,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,36,100,3600,Nursing Department
+26-01-2022,PO0118,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,21,10,210,Nursing Department
+15-12-2021,PO0119,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,49,200,9800,Nursing Department
+13-12-2022,PO0120,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,23,5,115,Outpatient Department
+15-04-2021,PO0121,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,40,1200,48000,Nursing Department
+21-09-2021,PO0122,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,46,150,6900,Nursing Department
+19-08-2022,PO0123,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,32,35,1120,Nursing Department
+24-06-2021,PO0124,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,6,144,864,Surgical Department
+02-02-2022,PO0125,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,32,1750,56000,Surgical Department
+05-09-2022,PO0126,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,33,2000,66000,Surgical Department
+13-05-2022,PO0127,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,29,2,58,Paramedical Department
+16-07-2021,PO0128,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,38,13,494,Nursing Department
+20-06-2021,PO0129,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,24,10,240,Radiology Department
+05-09-2022,PO0130,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,10,120,1200,Surgical Department
+24-08-2021,PO0131,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,49,100,4900,Surgical Department
+14-07-2021,PO0132,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,2,600,1200,Surgical Department
+01-06-2021,PO0133,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,46,1,46,Surgical Department
+25-12-2021,PO0134,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,19,250,4750,Paramedical Department
+13-08-2022,PO0135,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,22,10,220,Nursing Department
+31-05-2022,PO0136,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,33,35,1155,Surgical Department
+13-09-2022,PO0137,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,42,180,7560,Surgical Department
+20-09-2021,PO0138,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,27,1600,43200,Outpatient Department
+18-03-2022,PO0139,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,10,60,600,Surgical Department
+28-07-2022,PO0140,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,15,60,900,Surgical Department
+17-11-2021,PO0141,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,27,3000,81000,Nursing Department
+19-05-2021,PO0142,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,29,85,2465,Paramedical Department
+19-11-2021,PO0143,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,27,15,405,Outpatient Department
+11-04-2022,PO0144,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,4,5,20,Paramedical Department
+17-06-2021,PO0145,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,35,250,8750,Paramedical Department
+13-05-2021,PO0146,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,36,1200,43200,Nursing Department
+05-12-2021,PO0147,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,6,1500,9000,Nursing Department
+18-10-2021,PO0148,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,34,80,2720,Outpatient Department
+15-07-2021,PO0149,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,23,165,3795,Surgical Department
+22-08-2021,PO0150,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,36,1250,45000,Surgical Department
+25-01-2022,PO0151,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,28,5,140,Nursing Department
+07-11-2022,PO0152,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,8,7,56,Surgical Department
+10-09-2022,PO0153,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,5,180,900,Paramedical Department
+16-05-2022,PO0154,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,41,10,410,Outpatient Department
+23-07-2021,PO0155,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,25,100,2500,Surgical Department
+09-05-2022,PO0156,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,39,2000,78000,Surgical Department
+07-01-2022,PO0157,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,30,875,26250,Nursing Department
+31-07-2021,PO0158,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,26,20,520,Nursing Department
+21-09-2021,PO0159,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,47,260,12220,Nursing Department
+23-09-2021,PO0160,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,33,12,396,Surgical Department
+12-10-2021,PO0161,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,34,7,238,Outpatient Department
+05-09-2021,PO0162,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,8,300,2400,Outpatient Department
+01-05-2022,PO0163,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,8,15,120,Outpatient Department
+07-04-2022,PO0164,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,27,12,324,Surgical Department
+22-03-2022,PO0165,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,41,60,2460,Surgical Department
+23-03-2022,PO0166,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,38,150,5700,Nursing Department
+07-03-2022,PO0167,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,25,60,1500,Surgical Department
+16-09-2021,PO0168,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,19,2000,38000,Radiology Department
+02-04-2022,PO0169,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,30,8,240,Surgical Department
+30-07-2022,PO0170,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,32,20,640,Paramedical Department
+11-12-2021,PO0171,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,8,5,40,Surgical Department
+22-09-2022,PO0172,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,18,100,1800,Surgical Department
+11-08-2022,PO0173,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,47,10,470,Surgical Department
+07-07-2022,PO0174,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,20,200,4000,Surgical Department
+29-12-2021,PO0175,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,15,5,75,Surgical Department
+26-06-2022,PO0176,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,14,1200,16800,Nursing Department
+25-01-2022,PO0177,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,9,150,1350,Radiology Department
+08-11-2022,PO0178,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,25,35,875,Surgical Department
+29-08-2022,PO0179,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,7,144,1008,Paramedical Department
+26-11-2022,PO0180,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,31,1750,54250,Surgical Department
+09-11-2021,PO0181,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,31,2000,62000,Paramedical Department
+08-11-2022,PO0182,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,41,2,82,Nursing Department
+08-05-2022,PO0183,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,24,13,312,Outpatient Department
+24-05-2022,PO0184,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,14,10,140,Surgical Department
+04-08-2021,PO0185,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,28,120,3360,Nursing Department
+19-06-2022,PO0186,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,20,100,2000,Paramedical Department
+30-12-2022,PO0187,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,12,600,7200,Nursing Department
+06-04-2022,PO0188,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,4,1,4,Outpatient Department
+06-12-2022,PO0189,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,44,250,11000,Paramedical Department
+31-05-2022,PO0190,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,43,10,430,Radiology Department
+26-11-2021,PO0191,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,1,35,35,Paramedical Department
+09-06-2021,PO0192,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,17,180,3060,Surgical Department
+31-07-2022,PO0193,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,24,1600,38400,Nursing Department
+08-01-2022,PO0194,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,44,60,2640,Nursing Department
+22-03-2022,PO0195,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,13,60,780,Outpatient Department
+10-12-2022,PO0196,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,20,3000,60000,Surgical Department
+09-04-2022,PO0197,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,41,85,3485,Surgical Department
+18-08-2021,PO0198,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,36,15,540,Surgical Department
+02-10-2021,PO0199,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,12,5,60,Surgical Department
+06-11-2022,PO0200,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,44,250,11000,Nursing Department
+22-05-2021,PO0201,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,43,1200,51600,Nursing Department
+31-01-2022,PO0202,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,45,1500,67500,Nursing Department
+28-06-2022,PO0203,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,30,80,2400,Surgical Department
+24-02-2022,PO0204,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,33,165,5445,Surgical Department
+03-05-2021,PO0205,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,11,1250,13750,Nursing Department
+27-08-2021,PO0206,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,38,5,190,Surgical Department
+21-03-2022,PO0207,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,19,7,133,Surgical Department
+24-10-2021,PO0208,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,3,180,540,Surgical Department
+19-10-2021,PO0209,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,31,10,310,Outpatient Department
+26-07-2021,PO0210,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,15,100,1500,Nursing Department
+19-08-2022,PO0211,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,31,2000,62000,Nursing Department
+06-04-2021,PO0212,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,41,875,35875,Surgical Department
+27-07-2021,PO0213,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,45,20,900,Surgical Department
+19-05-2021,PO0214,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,35,260,9100,Radiology Department
+21-06-2021,PO0215,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,48,12,576,Radiology Department
+25-09-2021,PO0216,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,41,7,287,Surgical Department
+27-10-2022,PO0217,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,21,300,6300,Paramedical Department
+15-06-2021,PO0218,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,27,15,405,Surgical Department
+21-11-2021,PO0219,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,41,12,492,Nursing Department
+24-04-2022,PO0220,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,13,60,780,Nursing Department
+08-05-2021,PO0221,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,45,150,6750,Paramedical Department
+01-11-2021,PO0222,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,48,60,2880,Nursing Department
+23-06-2022,PO0223,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,40,2000,80000,Outpatient Department
+23-09-2022,PO0224,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,9,8,72,Surgical Department
+03-11-2021,PO0225,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,46,20,920,Nursing Department
+20-06-2022,PO0226,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,9,5,45,Paramedical Department
+01-07-2021,PO0227,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,46,100,4600,Surgical Department
+20-04-2021,PO0228,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,29,10,290,Outpatient Department
+02-11-2021,PO0229,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,23,200,4600,Nursing Department
+07-08-2021,PO0230,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,7,5,35,Nursing Department
+08-06-2021,PO0231,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,3,1200,3600,Outpatient Department
+05-04-2022,PO0232,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,19,150,2850,Nursing Department
+07-09-2021,PO0233,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,41,35,1435,Surgical Department
+11-02-2022,PO0234,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,28,144,4032,Radiology Department
+21-02-2022,PO0235,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,8,1750,14000,Outpatient Department
+02-02-2022,PO0236,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,1,2000,2000,Nursing Department
+07-08-2021,PO0237,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,11,2,22,Surgical Department
+05-03-2022,PO0238,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,34,13,442,Nursing Department
+10-08-2022,PO0239,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,11,10,110,Surgical Department
+19-07-2021,PO0240,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,17,120,2040,Nursing Department
+16-04-2021,PO0241,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,12,100,1200,Surgical Department
+14-05-2021,PO0242,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,16,600,9600,Paramedical Department
+18-10-2022,PO0243,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,4,1,4,Nursing Department
+22-02-2022,PO0244,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,1,250,250,Paramedical Department
+18-07-2021,PO0245,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,26,10,260,Nursing Department
+08-11-2021,PO0246,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,38,35,1330,Surgical Department
+19-12-2022,PO0247,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,20,180,3600,Nursing Department
+14-06-2021,PO0248,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,40,1600,64000,Radiology Department
+22-05-2022,PO0249,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,36,60,2160,Surgical Department
+13-05-2021,PO0250,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,27,60,1620,Nursing Department
+26-11-2022,PO0251,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,8,3000,24000,Nursing Department
+29-10-2021,PO0252,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,14,85,1190,Surgical Department
+20-12-2021,PO0253,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,15,15,225,Surgical Department
+15-10-2021,PO0254,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,20,5,100,Radiology Department
+22-07-2021,PO0255,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,26,250,6500,Nursing Department
+02-08-2021,PO0256,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,24,1200,28800,Paramedical Department
+13-10-2022,PO0257,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,22,1500,33000,Surgical Department
+06-08-2021,PO0258,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,48,80,3840,Paramedical Department
+15-03-2022,PO0259,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,42,165,6930,Surgical Department
+23-11-2021,PO0260,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,3,1250,3750,Nursing Department
+10-08-2022,PO0261,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,32,5,160,Paramedical Department
+28-08-2022,PO0262,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,33,7,231,Nursing Department
+27-05-2022,PO0263,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,27,180,4860,Surgical Department
+02-10-2021,PO0264,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,30,10,300,Surgical Department
+05-10-2022,PO0265,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,8,100,800,Nursing Department
+03-04-2021,PO0266,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,39,2000,78000,Paramedical Department
+30-11-2021,PO0267,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,12,875,10500,Surgical Department
+17-04-2022,PO0268,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,23,20,460,Radiology Department
+05-09-2021,PO0269,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,41,260,10660,Paramedical Department
+11-08-2021,PO0270,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,28,12,336,Paramedical Department
+21-05-2022,PO0271,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,30,7,210,Paramedical Department
+30-07-2022,PO0272,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,38,300,11400,Surgical Department
+12-07-2022,PO0273,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,7,15,105,Nursing Department
+05-04-2021,PO0274,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,41,12,492,Surgical Department
+08-08-2021,PO0275,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,19,60,1140,Surgical Department
+21-05-2021,PO0276,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,1,150,150,Nursing Department
+14-08-2021,PO0277,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,34,60,2040,Paramedical Department
+19-05-2021,PO0278,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,12,2000,24000,Surgical Department
+23-11-2021,PO0279,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,2,8,16,Surgical Department
+12-09-2021,PO0280,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,23,20,460,Nursing Department
+18-08-2022,PO0281,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,34,5,170,Nursing Department
+29-10-2022,PO0282,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,40,100,4000,Paramedical Department
+26-12-2021,PO0283,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,34,10,340,Nursing Department
+02-10-2021,PO0284,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,49,200,9800,Surgical Department
+06-04-2022,PO0285,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,1,5,5,Surgical Department
+05-11-2021,PO0286,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,42,1200,50400,Nursing Department
+25-04-2022,PO0287,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,8,150,1200,Nursing Department
+20-09-2021,PO0288,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,7,35,245,Paramedical Department
+02-07-2022,PO0289,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,11,144,1584,Outpatient Department
+27-07-2021,PO0290,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,21,1750,36750,Paramedical Department
+03-04-2022,PO0291,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,12,2000,24000,Surgical Department
+26-03-2022,PO0292,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,21,2,42,Surgical Department
+30-08-2022,PO0293,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,46,13,598,Outpatient Department
+05-08-2022,PO0294,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,43,10,430,Nursing Department
+29-10-2022,PO0295,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,44,120,5280,Radiology Department
+24-09-2022,PO0296,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,37,100,3700,Nursing Department
+24-05-2022,PO0297,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,24,600,14400,Outpatient Department
+20-12-2021,PO0298,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,34,1,34,Surgical Department
+11-02-2022,PO0299,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,48,250,12000,Radiology Department
+19-11-2021,PO0300,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,46,10,460,Surgical Department
+25-09-2021,PO0301,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,45,35,1575,Paramedical Department
+08-08-2022,PO0302,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,12,180,2160,Nursing Department
+06-12-2021,PO0303,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,46,1600,73600,Surgical Department
+18-05-2021,PO0304,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,37,60,2220,Nursing Department
+07-08-2022,PO0305,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,32,60,1920,Paramedical Department
+14-07-2022,PO0306,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,19,3000,57000,Outpatient Department
+29-01-2022,PO0307,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,5,85,425,Nursing Department
+10-09-2021,PO0308,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,46,15,690,Nursing Department
+22-05-2021,PO0309,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,34,5,170,Surgical Department
+03-12-2022,PO0310,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,39,250,9750,Paramedical Department
+08-08-2021,PO0311,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,38,1200,45600,Nursing Department
+14-08-2022,PO0312,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,4,1500,6000,Surgical Department
+21-05-2022,PO0313,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,31,80,2480,Paramedical Department
+15-11-2022,PO0314,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,6,165,990,Nursing Department
+01-03-2022,PO0315,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,9,1250,11250,Paramedical Department
+22-07-2022,PO0316,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,20,5,100,Nursing Department
+01-05-2022,PO0317,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,32,7,224,Outpatient Department
+05-06-2021,PO0318,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,16,180,2880,Paramedical Department
+30-04-2021,PO0319,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,50,10,500,Surgical Department
+14-12-2022,PO0320,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,6,100,600,Nursing Department
+20-01-2022,PO0321,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,22,2000,44000,Surgical Department
+23-11-2021,PO0322,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,47,875,41125,Nursing Department
+01-01-2022,PO0323,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,8,20,160,Paramedical Department
+07-08-2021,PO0324,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,28,260,7280,Surgical Department
+06-04-2022,PO0325,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,14,12,168,Surgical Department
+03-01-2022,PO0326,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,29,7,203,Surgical Department
+27-10-2021,PO0327,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,42,300,12600,Surgical Department
+24-04-2021,PO0328,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,16,15,240,Nursing Department
+16-10-2021,PO0329,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,19,12,228,Nursing Department
+01-04-2022,PO0330,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,32,60,1920,Nursing Department
+31-08-2021,PO0331,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,10,150,1500,Outpatient Department
+16-06-2022,PO0332,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,50,60,3000,Surgical Department
+17-10-2022,PO0333,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,15,2000,30000,Nursing Department
+03-10-2021,PO0334,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,9,8,72,Radiology Department
+04-04-2021,PO0335,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,37,20,740,Surgical Department
+16-10-2021,PO0336,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,1,5,5,Outpatient Department
+04-07-2022,PO0337,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,8,100,800,Surgical Department
+09-06-2021,PO0338,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,31,10,310,Paramedical Department
+27-01-2022,PO0339,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,4,200,800,Outpatient Department
+24-04-2021,PO0340,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,5,5,25,Surgical Department
+03-05-2021,PO0341,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,2,1200,2400,Radiology Department
+31-10-2021,PO0342,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,37,150,5550,Surgical Department
+28-08-2022,PO0343,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,41,35,1435,Nursing Department
+07-10-2022,PO0344,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,37,144,5328,Surgical Department
+22-11-2022,PO0345,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,31,1750,54250,Surgical Department
+07-09-2021,PO0346,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,21,2000,42000,Surgical Department
+29-09-2022,PO0347,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,4,2,8,Nursing Department
+29-07-2022,PO0348,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,15,13,195,Surgical Department
+10-06-2022,PO0349,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,20,10,200,Surgical Department
+13-11-2021,PO0350,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,23,120,2760,Paramedical Department
+09-09-2022,PO0351,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,20,100,2000,Nursing Department
+04-04-2021,PO0352,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,47,600,28200,Surgical Department
+16-09-2022,PO0353,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,12,1,12,Surgical Department
+22-09-2022,PO0354,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,1,250,250,Surgical Department
+09-09-2022,PO0355,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,1,10,10,Nursing Department
+25-08-2021,PO0356,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,46,35,1610,Paramedical Department
+04-10-2022,PO0357,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,43,180,7740,Paramedical Department
+17-01-2022,PO0358,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,42,1600,67200,Surgical Department
+15-09-2021,PO0359,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,25,60,1500,Radiology Department
+28-10-2021,PO0360,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,25,60,1500,Nursing Department
+23-09-2021,PO0361,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,9,3000,27000,Surgical Department
+01-10-2021,PO0362,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,35,85,2975,Surgical Department
+24-04-2022,PO0363,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,45,15,675,Paramedical Department
+13-07-2021,PO0364,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,41,5,205,Surgical Department
+03-05-2021,PO0365,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,16,250,4000,Paramedical Department
+14-10-2022,PO0366,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,49,1200,58800,Paramedical Department
+28-09-2021,PO0367,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,1,1500,1500,Paramedical Department
+03-05-2021,PO0368,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,33,80,2640,Surgical Department
+07-04-2021,PO0369,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,33,165,5445,Surgical Department
+19-04-2021,PO0370,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,24,1250,30000,Nursing Department
+17-12-2021,PO0371,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,27,5,135,Nursing Department
+26-10-2021,PO0372,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,22,7,154,Surgical Department
+15-08-2021,PO0373,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,28,180,5040,Surgical Department
+25-09-2022,PO0374,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,50,10,500,Surgical Department
+16-09-2021,PO0375,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,47,100,4700,Surgical Department
+13-08-2021,PO0376,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,46,2000,92000,Nursing Department
+29-09-2022,PO0377,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,9,875,7875,Outpatient Department
+01-01-2022,PO0378,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,4,20,80,Surgical Department
+12-08-2022,PO0379,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,18,260,4680,Nursing Department
+25-02-2022,PO0380,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,25,12,300,Nursing Department
+18-04-2022,PO0381,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,33,7,231,Paramedical Department
+01-04-2022,PO0382,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,13,300,3900,Paramedical Department
+24-09-2021,PO0383,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,1,15,15,Nursing Department
+15-10-2021,PO0384,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,44,12,528,Paramedical Department
+28-11-2022,PO0385,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,36,60,2160,Radiology Department
+15-09-2022,PO0386,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,16,150,2400,Outpatient Department
+20-08-2022,PO0387,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,34,60,2040,Outpatient Department
+01-01-2022,PO0388,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,20,2000,40000,Surgical Department
+05-05-2021,PO0389,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,9,8,72,Nursing Department
+18-12-2022,PO0390,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,26,20,520,Nursing Department
+06-08-2021,PO0391,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,34,5,170,Nursing Department
+24-08-2022,PO0392,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,6,100,600,Paramedical Department
+11-08-2021,PO0393,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,35,10,350,Surgical Department
+15-07-2022,PO0394,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,17,200,3400,Radiology Department
+25-04-2022,PO0395,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,48,5,240,Paramedical Department
+24-05-2022,PO0396,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,45,1200,54000,Paramedical Department
+21-02-2022,PO0397,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,18,150,2700,Paramedical Department
+17-11-2022,PO0398,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,45,35,1575,Paramedical Department
+10-01-2022,PO0399,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,10,144,1440,Nursing Department
+01-07-2021,PO0400,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,19,1750,33250,Paramedical Department
+26-11-2022,PO0401,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,44,2000,88000,Nursing Department
+04-10-2022,PO0402,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,42,2,84,Nursing Department
+17-05-2022,PO0403,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,23,13,299,Nursing Department
+06-09-2022,PO0404,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,18,10,180,Surgical Department
+28-09-2021,PO0405,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,30,120,3600,Surgical Department
+11-09-2022,PO0406,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,49,100,4900,Outpatient Department
+26-09-2022,PO0407,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,23,600,13800,Surgical Department
+01-09-2022,PO0408,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,3,1,3,Surgical Department
+25-03-2022,PO0409,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,1,250,250,Surgical Department
+14-02-2022,PO0410,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,9,10,90,Paramedical Department
+02-10-2021,PO0411,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,6,35,210,Nursing Department
+27-02-2022,PO0412,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,15,180,2700,Outpatient Department
+08-10-2022,PO0413,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,30,1600,48000,Radiology Department
+17-03-2022,PO0414,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,19,60,1140,Paramedical Department
+17-10-2022,PO0415,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,39,60,2340,Surgical Department
+18-07-2021,PO0416,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,18,3000,54000,Nursing Department
+19-09-2021,PO0417,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,22,85,1870,Surgical Department
+14-07-2021,PO0418,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,4,15,60,Paramedical Department
+03-01-2022,PO0419,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,49,5,245,Surgical Department
+14-03-2022,PO0420,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,30,250,7500,Paramedical Department
+04-09-2021,PO0421,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,43,1200,51600,Paramedical Department
+13-05-2021,PO0422,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,18,1500,27000,Paramedical Department
+25-08-2021,PO0423,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,40,80,3200,Surgical Department
+18-08-2022,PO0424,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,14,165,2310,Nursing Department
+20-05-2022,PO0425,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,22,1250,27500,Paramedical Department
+01-05-2022,PO0426,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,9,5,45,Nursing Department
+23-09-2021,PO0427,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,47,7,329,Surgical Department
+24-04-2022,PO0428,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,9,180,1620,Surgical Department
+25-12-2021,PO0429,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,25,10,250,Outpatient Department
+05-08-2021,PO0430,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,21,100,2100,Surgical Department
+06-05-2021,PO0431,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,14,2000,28000,Surgical Department
+10-07-2021,PO0432,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,8,875,7000,Nursing Department
+13-09-2021,PO0433,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,24,20,480,Outpatient Department
+30-12-2022,PO0434,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,10,260,2600,Nursing Department
+03-10-2022,PO0435,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,3,12,36,Paramedical Department
+29-09-2022,PO0436,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,41,7,287,Surgical Department
+03-11-2022,PO0437,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,50,300,15000,Nursing Department
+29-09-2022,PO0438,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,39,15,585,Surgical Department
+27-04-2021,PO0439,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,23,12,276,Outpatient Department
+18-09-2021,PO0440,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,17,60,1020,Nursing Department
+13-12-2022,PO0441,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,5,150,750,Nursing Department
+26-10-2022,PO0442,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,4,60,240,Paramedical Department
+15-09-2021,PO0443,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,42,2000,84000,Paramedical Department
+30-06-2021,PO0444,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,5,8,40,Surgical Department
+01-11-2022,PO0445,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,10,20,200,Nursing Department
+14-12-2022,PO0446,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,22,5,110,Paramedical Department
+10-01-2022,PO0447,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,28,100,2800,Nursing Department
+08-07-2022,PO0448,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,5,10,50,Radiology Department
+14-08-2021,PO0449,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,4,200,800,Outpatient Department
+17-09-2022,PO0450,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,8,5,40,Outpatient Department
+19-04-2022,PO0451,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,24,1200,28800,Surgical Department
+12-04-2022,PO0452,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,16,150,2400,Radiology Department
+13-01-2022,PO0453,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,11,35,385,Nursing Department
+18-09-2022,PO0454,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,27,144,3888,Paramedical Department
+01-11-2021,PO0455,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,44,1750,77000,Nursing Department
+30-08-2021,PO0456,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,30,2000,60000,Surgical Department
+23-05-2021,PO0457,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,48,2,96,Nursing Department
+25-07-2022,PO0458,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,21,13,273,Outpatient Department
+13-06-2022,PO0459,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,18,10,180,Surgical Department
+24-05-2022,PO0460,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,8,120,960,Surgical Department
+28-04-2021,PO0461,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,2,100,200,Surgical Department
+01-05-2022,PO0462,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,4,600,2400,Nursing Department
+12-08-2022,PO0463,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,26,1,26,Radiology Department
+11-05-2021,PO0464,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,38,250,9500,Paramedical Department
+25-05-2022,PO0465,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,2,10,20,Nursing Department
+14-06-2022,PO0466,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,33,35,1155,Radiology Department
+23-06-2022,PO0467,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,19,180,3420,Surgical Department
+17-11-2021,PO0468,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,45,1600,72000,Surgical Department
+06-03-2022,PO0469,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,23,60,1380,Surgical Department
+03-12-2021,PO0470,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,42,60,2520,Nursing Department
+03-11-2022,PO0471,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,33,3000,99000,Paramedical Department
+25-10-2022,PO0472,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,18,85,1530,Surgical Department
+08-04-2022,PO0473,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,8,15,120,Surgical Department
+08-08-2022,PO0474,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,17,5,85,Nursing Department
+15-09-2022,PO0475,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,32,250,8000,Surgical Department
+27-04-2021,PO0476,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,19,1200,22800,Surgical Department
+04-05-2022,PO0477,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,9,1500,13500,Nursing Department
+06-04-2022,PO0478,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,22,80,1760,Nursing Department
+20-12-2022,PO0479,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,29,165,4785,Outpatient Department
+22-09-2021,PO0480,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,10,1250,12500,Nursing Department
+15-09-2021,PO0481,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,15,5,75,Surgical Department
+25-07-2021,PO0482,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,44,7,308,Nursing Department
+07-07-2022,PO0483,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,2,180,360,Paramedical Department
+22-03-2022,PO0484,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,23,10,230,Nursing Department
+12-09-2021,PO0485,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,34,100,3400,Radiology Department
+20-02-2022,PO0486,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,6,2000,12000,Outpatient Department
+26-06-2021,PO0487,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,8,875,7000,Paramedical Department
+08-11-2022,PO0488,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,36,20,720,Nursing Department
+10-05-2022,PO0489,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,47,260,12220,Surgical Department
+26-04-2022,PO0490,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,12,12,144,Radiology Department
+14-08-2021,PO0491,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,46,7,322,Surgical Department
+24-03-2022,PO0492,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,26,300,7800,Surgical Department
+20-01-2022,PO0493,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,34,15,510,Paramedical Department
+07-11-2022,PO0494,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,33,12,396,Surgical Department
+03-09-2022,PO0495,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,24,60,1440,Outpatient Department
+08-10-2022,PO0496,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,11,150,1650,Paramedical Department
+12-03-2022,PO0497,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,3,60,180,Nursing Department
+21-05-2021,PO0498,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,23,2000,46000,Nursing Department
+04-07-2022,PO0499,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,4,8,32,Nursing Department
+11-12-2022,PO0500,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,22,20,440,Surgical Department
+11-11-2021,PO0501,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,3,5,15,Nursing Department
+03-03-2022,PO0502,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,45,100,4500,Nursing Department
+16-08-2021,PO0503,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,8,10,80,Surgical Department
+17-03-2022,PO0504,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,13,200,2600,Paramedical Department
+29-06-2022,PO0505,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,6,5,30,Nursing Department
+03-02-2022,PO0506,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,27,1200,32400,Outpatient Department
+21-05-2022,PO0507,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,50,150,7500,Surgical Department
+02-11-2021,PO0508,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,50,35,1750,Paramedical Department
+30-04-2022,PO0509,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,41,144,5904,Nursing Department
+08-12-2022,PO0510,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,29,1750,50750,Radiology Department
+24-07-2022,PO0511,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,22,2000,44000,Outpatient Department
+01-02-2022,PO0512,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,31,2,62,Surgical Department
+08-09-2022,PO0513,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,22,13,286,Paramedical Department
+09-02-2022,PO0514,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,50,10,500,Radiology Department
+07-12-2021,PO0515,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,27,120,3240,Surgical Department
+16-11-2022,PO0516,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,5,100,500,Surgical Department
+01-05-2021,PO0517,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,47,600,28200,Paramedical Department
+28-03-2022,PO0518,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,43,1,43,Radiology Department
+27-08-2021,PO0519,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,30,250,7500,Nursing Department
+24-06-2022,PO0520,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,15,10,150,Surgical Department
+26-04-2022,PO0521,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,50,35,1750,Surgical Department
+14-07-2022,PO0522,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,9,180,1620,Nursing Department
+14-03-2022,PO0523,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,35,1600,56000,Surgical Department
+03-12-2022,PO0524,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,5,60,300,Nursing Department
+03-10-2022,PO0525,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,31,60,1860,Outpatient Department
+04-11-2021,PO0526,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,14,3000,42000,Surgical Department
+15-04-2021,PO0527,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,30,85,2550,Surgical Department
+17-12-2021,PO0528,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,46,15,690,Nursing Department
+18-05-2022,PO0529,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,16,5,80,Surgical Department
+26-12-2022,PO0530,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,26,250,6500,Surgical Department
+29-09-2021,PO0531,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,5,1200,6000,Paramedical Department
+25-09-2022,PO0532,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,45,1500,67500,Outpatient Department
+08-12-2022,PO0533,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,44,80,3520,Nursing Department
+29-05-2022,PO0534,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,5,165,825,Surgical Department
+03-01-2022,PO0535,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,43,1250,53750,Nursing Department
+24-06-2021,PO0536,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,33,5,165,Radiology Department
+09-08-2021,PO0537,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,47,7,329,Nursing Department
+06-03-2022,PO0538,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,6,180,1080,Surgical Department
+26-12-2022,PO0539,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,18,10,180,Nursing Department
+29-06-2022,PO0540,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,15,100,1500,Outpatient Department
+17-01-2022,PO0541,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,24,2000,48000,Nursing Department
+02-12-2021,PO0542,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,22,875,19250,Surgical Department
+01-12-2021,PO0543,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,10,20,200,Outpatient Department
+18-10-2022,PO0544,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,2,260,520,Paramedical Department
+23-01-2022,PO0545,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,45,12,540,Nursing Department
+12-01-2022,PO0546,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,8,7,56,Surgical Department
+30-01-2022,PO0547,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,33,300,9900,Nursing Department
+03-06-2022,PO0548,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,43,15,645,Nursing Department
+11-10-2021,PO0549,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,31,12,372,Surgical Department
+11-10-2022,PO0550,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,3,60,180,Nursing Department
+15-12-2021,PO0551,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,30,150,4500,Paramedical Department
+19-07-2022,PO0552,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,28,60,1680,Nursing Department
+09-12-2022,PO0553,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,47,2000,94000,Nursing Department
+30-05-2021,PO0554,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,6,8,48,Outpatient Department
+04-07-2021,PO0555,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,26,20,520,Surgical Department
+19-06-2022,PO0556,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,34,5,170,Radiology Department
+12-05-2021,PO0557,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,18,100,1800,Outpatient Department
+05-06-2021,PO0558,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,28,10,280,Paramedical Department
+17-07-2021,PO0559,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,36,200,7200,Radiology Department
+21-12-2021,PO0560,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,49,5,245,Nursing Department
+27-08-2022,PO0561,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,38,1200,45600,Nursing Department
+22-09-2022,PO0562,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,12,150,1800,Nursing Department
+08-02-2022,PO0563,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,11,35,385,Nursing Department
+07-10-2021,PO0564,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,47,144,6768,Nursing Department
+28-06-2022,PO0565,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,27,1750,47250,Nursing Department
+09-11-2021,PO0566,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,32,2000,64000,Surgical Department
+12-07-2022,PO0567,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,49,2,98,Outpatient Department
+22-06-2021,PO0568,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,43,13,559,Outpatient Department
+26-05-2022,PO0569,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,1,10,10,Paramedical Department
+05-12-2021,PO0570,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,5,120,600,Surgical Department
+31-08-2021,PO0571,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,9,100,900,Paramedical Department
+21-11-2022,PO0572,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,11,600,6600,Paramedical Department
+27-09-2022,PO0573,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,10,1,10,Radiology Department
+16-09-2022,PO0574,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,42,250,10500,Outpatient Department
+29-09-2021,PO0575,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,39,10,390,Surgical Department
+02-02-2022,PO0576,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,49,35,1715,Nursing Department
+26-09-2021,PO0577,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,15,180,2700,Radiology Department
+01-07-2021,PO0578,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,10,1600,16000,Paramedical Department
+30-11-2021,PO0579,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,26,60,1560,Paramedical Department
+20-05-2022,PO0580,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,6,60,360,Paramedical Department
+22-03-2022,PO0581,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,11,3000,33000,Surgical Department
+08-07-2021,PO0582,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,36,85,3060,Radiology Department
+15-07-2021,PO0583,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,28,15,420,Paramedical Department
+18-04-2021,PO0584,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,49,5,245,Nursing Department
+05-04-2022,PO0585,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,32,250,8000,Nursing Department
+18-07-2022,PO0586,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,22,1200,26400,Outpatient Department
+22-07-2022,PO0587,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,13,1500,19500,Outpatient Department
+04-07-2022,PO0588,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,6,80,480,Nursing Department
+16-12-2022,PO0589,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,45,165,7425,Surgical Department
+30-07-2021,PO0590,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,49,1250,61250,Surgical Department
+21-05-2022,PO0591,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,43,5,215,Nursing Department
+20-04-2022,PO0592,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,45,7,315,Paramedical Department
+01-02-2022,PO0593,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,38,180,6840,Surgical Department
+07-01-2022,PO0594,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,9,10,90,Surgical Department
+27-08-2021,PO0595,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,16,100,1600,Radiology Department
+25-09-2022,PO0596,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,32,2000,64000,Surgical Department
+15-03-2022,PO0597,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,18,875,15750,Surgical Department
+20-07-2022,PO0598,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,27,20,540,Surgical Department
+02-11-2022,PO0599,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,8,260,2080,Surgical Department
+03-09-2022,PO0600,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,50,12,600,Paramedical Department
+24-09-2022,PO0601,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,37,7,259,Surgical Department
+20-10-2022,PO0602,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,6,300,1800,Paramedical Department
+29-01-2022,PO0603,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,14,15,210,Nursing Department
+19-10-2021,PO0604,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,40,12,480,Paramedical Department
+13-07-2021,PO0605,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,27,60,1620,Radiology Department
+18-05-2022,PO0606,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,7,150,1050,Radiology Department
+19-11-2022,PO0607,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,4,60,240,Outpatient Department
+19-07-2021,PO0608,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,35,2000,70000,Surgical Department
+30-08-2021,PO0609,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,31,8,248,Paramedical Department
+04-07-2021,PO0610,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,20,20,400,Surgical Department
+28-12-2021,PO0611,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,29,5,145,Paramedical Department
+05-04-2022,PO0612,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,22,100,2200,Nursing Department
+06-09-2021,PO0613,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,15,10,150,Nursing Department
+18-05-2021,PO0614,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,42,200,8400,Nursing Department
+19-01-2022,PO0615,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,42,5,210,Paramedical Department
+30-08-2021,PO0616,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,45,1200,54000,Paramedical Department
+14-12-2021,PO0617,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,8,150,1200,Paramedical Department
+18-07-2021,PO0618,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,25,35,875,Nursing Department
+03-10-2021,PO0619,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,35,144,5040,Nursing Department
+11-03-2022,PO0620,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,38,1750,66500,Paramedical Department
+07-08-2021,PO0621,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,26,2000,52000,Paramedical Department
+19-01-2022,PO0622,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,18,2,36,Surgical Department
+07-07-2021,PO0623,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,6,13,78,Paramedical Department
+15-02-2022,PO0624,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,38,10,380,Nursing Department
+28-06-2021,PO0625,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,22,120,2640,Surgical Department
+09-07-2021,PO0626,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,45,100,4500,Surgical Department
+05-03-2022,PO0627,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,16,600,9600,Nursing Department
+24-08-2022,PO0628,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,38,1,38,Paramedical Department
+09-12-2021,PO0629,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,15,250,3750,Paramedical Department
+25-06-2022,PO0630,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,32,10,320,Paramedical Department
+21-04-2022,PO0631,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,26,35,910,Nursing Department
+30-06-2022,PO0632,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,4,180,720,Outpatient Department
+27-05-2021,PO0633,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,34,1600,54400,Nursing Department
+19-01-2022,PO0634,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,35,60,2100,Nursing Department
+27-11-2022,PO0635,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,23,60,1380,Paramedical Department
+13-03-2022,PO0636,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,40,3000,120000,Paramedical Department
+20-10-2021,PO0637,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,1,85,85,Surgical Department
+20-02-2022,PO0638,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,17,15,255,Nursing Department
+13-06-2021,PO0639,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,46,5,230,Nursing Department
+23-12-2022,PO0640,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,47,250,11750,Nursing Department
+01-06-2021,PO0641,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,34,1200,40800,Paramedical Department
+18-12-2021,PO0642,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,29,1500,43500,Surgical Department
+09-11-2021,PO0643,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,27,80,2160,Nursing Department
+03-10-2022,PO0644,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,23,165,3795,Radiology Department
+24-04-2022,PO0645,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,26,1250,32500,Surgical Department
+02-04-2022,PO0646,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,27,5,135,Nursing Department
+27-04-2021,PO0647,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,3,7,21,Nursing Department
+12-11-2021,PO0648,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,14,180,2520,Paramedical Department
+18-10-2021,PO0649,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,13,10,130,Paramedical Department
+23-12-2022,PO0650,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,32,100,3200,Surgical Department
+19-07-2022,PO0651,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,17,2000,34000,Surgical Department
+09-07-2021,PO0652,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,14,875,12250,Paramedical Department
+15-12-2021,PO0653,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,49,20,980,Radiology Department
+13-06-2022,PO0654,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,43,260,11180,Surgical Department
+05-09-2021,PO0655,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,6,12,72,Radiology Department
+12-05-2021,PO0656,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,12,7,84,Nursing Department
+05-10-2022,PO0657,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,4,300,1200,Paramedical Department
+16-06-2022,PO0658,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,15,15,225,Surgical Department
+28-06-2021,PO0659,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,1,12,12,Radiology Department
+17-01-2022,PO0660,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,24,60,1440,Outpatient Department
+14-12-2022,PO0661,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,13,150,1950,Paramedical Department
+12-11-2022,PO0662,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,47,60,2820,Outpatient Department
+24-06-2021,PO0663,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,27,2000,54000,Nursing Department
+10-10-2021,PO0664,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,29,8,232,Paramedical Department
+10-12-2021,PO0665,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,23,20,460,Nursing Department
+09-09-2021,PO0666,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,41,5,205,Outpatient Department
+13-07-2022,PO0667,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,31,100,3100,Surgical Department
+11-06-2021,PO0668,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,38,10,380,Nursing Department
+20-07-2021,PO0669,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,39,200,7800,Nursing Department
+08-01-2022,PO0670,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,6,5,30,Outpatient Department
+07-12-2022,PO0671,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,4,1200,4800,Surgical Department
+04-02-2022,PO0672,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,4,150,600,Paramedical Department
+24-02-2022,PO0673,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,17,35,595,Nursing Department
+14-12-2022,PO0674,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,17,144,2448,Nursing Department
+07-10-2022,PO0675,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,31,1750,54250,Surgical Department
+26-07-2021,PO0676,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,21,2000,42000,Outpatient Department
+10-09-2022,PO0677,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,26,2,52,Outpatient Department
+24-07-2021,PO0678,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,24,13,312,Surgical Department
+15-01-2022,PO0679,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,7,10,70,Nursing Department
+21-10-2021,PO0680,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,7,120,840,Nursing Department
+05-12-2021,PO0681,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,38,100,3800,Nursing Department
+13-02-2022,PO0682,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,17,600,10200,Surgical Department
+19-03-2022,PO0683,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,19,1,19,Nursing Department
+04-07-2021,PO0684,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,34,250,8500,Surgical Department
+23-11-2021,PO0685,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,34,10,340,Surgical Department
+06-09-2021,PO0686,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,6,35,210,Radiology Department
+20-04-2022,PO0687,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,50,180,9000,Surgical Department
+09-08-2021,PO0688,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,48,1600,76800,Outpatient Department
+12-10-2022,PO0689,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,8,60,480,Paramedical Department
+12-09-2021,PO0690,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,14,60,840,Paramedical Department
+19-12-2022,PO0691,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,35,3000,105000,Paramedical Department
+30-12-2022,PO0692,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,13,85,1105,Surgical Department
+05-04-2021,PO0693,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,29,15,435,Outpatient Department
+25-07-2022,PO0694,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,17,5,85,Nursing Department
+27-03-2022,PO0695,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,46,250,11500,Paramedical Department
+27-04-2021,PO0696,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,11,1200,13200,Paramedical Department
+06-03-2022,PO0697,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,21,1500,31500,Nursing Department
+18-11-2022,PO0698,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,33,80,2640,Nursing Department
+17-01-2022,PO0699,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,14,165,2310,Outpatient Department
+08-04-2021,PO0700,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,36,1250,45000,Paramedical Department
+31-03-2022,PO0701,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,20,5,100,Paramedical Department
+02-12-2022,PO0702,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,21,7,147,Nursing Department
+20-12-2022,PO0703,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,47,180,8460,Radiology Department
+20-11-2021,PO0704,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,28,10,280,Surgical Department
+06-06-2021,PO0705,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,39,100,3900,Paramedical Department
+26-11-2021,PO0706,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,38,2000,76000,Surgical Department
+12-08-2022,PO0707,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,16,875,14000,Nursing Department
+18-12-2022,PO0708,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,33,20,660,Outpatient Department
+03-04-2022,PO0709,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,20,260,5200,Surgical Department
+10-04-2022,PO0710,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,48,12,576,Surgical Department
+21-10-2022,PO0711,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,9,7,63,Radiology Department
+13-02-2022,PO0712,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,19,300,5700,Surgical Department
+16-11-2021,PO0713,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,36,15,540,Surgical Department
+01-11-2022,PO0714,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,39,12,468,Radiology Department
+23-05-2022,PO0715,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,17,60,1020,Nursing Department
+25-10-2022,PO0716,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,20,150,3000,Surgical Department
+30-07-2021,PO0717,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,24,60,1440,Surgical Department
+07-05-2022,PO0718,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,5,2000,10000,Surgical Department
+18-11-2022,PO0719,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,4,8,32,Paramedical Department
+14-11-2021,PO0720,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,13,20,260,Radiology Department
+05-09-2022,PO0721,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,44,5,220,Outpatient Department
+13-11-2021,PO0722,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,43,100,4300,Surgical Department
+11-07-2021,PO0723,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,34,10,340,Nursing Department
+22-01-2022,PO0724,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,45,200,9000,Surgical Department
+14-06-2022,PO0725,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,28,5,140,Nursing Department
+03-06-2021,PO0726,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,31,1200,37200,Nursing Department
+20-06-2021,PO0727,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,14,150,2100,Outpatient Department
+11-06-2022,PO0728,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,29,35,1015,Surgical Department
+03-11-2022,PO0729,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,18,144,2592,Outpatient Department
+28-02-2022,PO0730,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,17,1750,29750,Nursing Department
+01-02-2022,PO0731,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,1,2000,2000,Surgical Department
+29-09-2021,PO0732,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,21,2,42,Nursing Department
+04-12-2022,PO0733,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,47,13,611,Surgical Department
+09-11-2022,PO0734,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,30,10,300,Nursing Department
+16-04-2022,PO0735,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,28,120,3360,Outpatient Department
+18-12-2022,PO0736,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,11,100,1100,Paramedical Department
+04-06-2021,PO0737,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,11,600,6600,Nursing Department
+26-10-2022,PO0738,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,44,1,44,Nursing Department
+06-08-2022,PO0739,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,9,250,2250,Nursing Department
+30-03-2022,PO0740,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,48,10,480,Paramedical Department
+07-09-2022,PO0741,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,3,35,105,Surgical Department
+03-12-2021,PO0742,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,17,180,3060,Surgical Department
+25-08-2022,PO0743,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,27,1600,43200,Nursing Department
+26-12-2021,PO0744,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,20,60,1200,Paramedical Department
+17-01-2022,PO0745,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,8,60,480,Nursing Department
+15-01-2022,PO0746,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,42,3000,126000,Paramedical Department
+08-06-2022,PO0747,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,41,85,3485,Outpatient Department
+30-04-2021,PO0748,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,43,15,645,Surgical Department
+06-04-2021,PO0749,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,28,5,140,Paramedical Department
+02-06-2022,PO0750,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,20,250,5000,Paramedical Department
+21-05-2021,PO0751,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,13,1200,15600,Surgical Department
+17-04-2022,PO0752,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,1,1500,1500,Outpatient Department
+12-06-2021,PO0753,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,23,80,1840,Nursing Department
+19-10-2021,PO0754,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,3,165,495,Nursing Department
+05-04-2022,PO0755,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,5,1250,6250,Outpatient Department
+21-12-2022,PO0756,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,16,5,80,Paramedical Department
+06-01-2022,PO0757,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,2,7,14,Nursing Department
+13-04-2021,PO0758,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,41,180,7380,Outpatient Department
+19-11-2021,PO0759,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,44,10,440,Radiology Department
+24-10-2022,PO0760,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,33,100,3300,Nursing Department
+07-11-2021,PO0761,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,42,2000,84000,Nursing Department
+04-07-2021,PO0762,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,25,875,21875,Paramedical Department
+11-04-2022,PO0763,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,49,20,980,Paramedical Department
+21-05-2022,PO0764,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,30,260,7800,Surgical Department
+16-01-2022,PO0765,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,47,12,564,Outpatient Department
+19-04-2021,PO0766,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,12,7,84,Surgical Department
+02-09-2021,PO0767,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,18,300,5400,Surgical Department
+18-05-2022,PO0768,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,47,15,705,Surgical Department
+24-03-2022,PO0769,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,21,12,252,Paramedical Department
+31-10-2021,PO0770,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,6,60,360,Surgical Department
+19-07-2021,PO0771,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,23,150,3450,Paramedical Department
+22-10-2021,PO0772,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,35,60,2100,Surgical Department
+26-12-2021,PO0773,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,36,2000,72000,Paramedical Department
+05-08-2021,PO0774,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,31,8,248,Paramedical Department
+11-09-2021,PO0775,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,42,20,840,Outpatient Department
+19-03-2022,PO0776,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,15,5,75,Outpatient Department
+25-05-2022,PO0777,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,23,100,2300,Nursing Department
+29-09-2022,PO0778,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,38,10,380,Surgical Department
+18-05-2022,PO0779,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,45,200,9000,Surgical Department
+02-05-2021,PO0780,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,17,5,85,Outpatient Department
+01-07-2022,PO0781,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,12,1200,14400,Paramedical Department
+19-02-2022,PO0782,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,40,150,6000,Outpatient Department
+06-06-2021,PO0783,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,15,35,525,Nursing Department
+03-09-2021,PO0784,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,18,144,2592,Surgical Department
+25-02-2022,PO0785,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,16,1750,28000,Nursing Department
+30-04-2021,PO0786,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,2,2000,4000,Outpatient Department
+18-02-2022,PO0787,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,26,2,52,Nursing Department
+12-06-2021,PO0788,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,30,13,390,Paramedical Department
+04-11-2022,PO0789,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,30,10,300,Nursing Department
+10-05-2021,PO0790,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,11,120,1320,Surgical Department
+23-03-2022,PO0791,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,30,100,3000,Surgical Department
+08-06-2021,PO0792,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,8,600,4800,Surgical Department
+12-10-2021,PO0793,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,26,1,26,Surgical Department
+11-04-2022,PO0794,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,12,250,3000,Nursing Department
+15-09-2021,PO0795,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,27,10,270,Surgical Department
+19-05-2022,PO0796,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,39,35,1365,Surgical Department
+07-05-2022,PO0797,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,7,180,1260,Surgical Department
+04-12-2021,PO0798,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,21,1600,33600,Surgical Department
+30-06-2021,PO0799,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,19,60,1140,Paramedical Department
+18-06-2021,PO0800,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,35,60,2100,Outpatient Department
+08-04-2022,PO0801,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,19,3000,57000,Surgical Department
+07-05-2022,PO0802,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,50,85,4250,Paramedical Department
+17-11-2022,PO0803,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,1,15,15,Nursing Department
+19-07-2022,PO0804,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,13,5,65,Nursing Department
+16-10-2021,PO0805,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,38,250,9500,Nursing Department
+17-06-2022,PO0806,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,35,1200,42000,Nursing Department
+03-09-2021,PO0807,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,15,1500,22500,Nursing Department
+13-12-2022,PO0808,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,5,80,400,Nursing Department
+14-08-2022,PO0809,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,42,165,6930,Surgical Department
+18-05-2022,PO0810,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,21,1250,26250,Surgical Department
+30-05-2022,PO0811,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,3,5,15,Paramedical Department
+04-12-2022,PO0812,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,15,7,105,Surgical Department
+28-09-2021,PO0813,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,12,180,2160,Nursing Department
+25-04-2022,PO0814,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,4,10,40,Radiology Department
+15-12-2021,PO0815,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,35,100,3500,Paramedical Department
+18-08-2022,PO0816,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,48,2000,96000,Outpatient Department
+31-07-2022,PO0817,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,11,875,9625,Surgical Department
+02-09-2022,PO0818,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,10,20,200,Surgical Department
+15-10-2022,PO0819,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,2,260,520,Nursing Department
+30-11-2021,PO0820,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,16,12,192,Nursing Department
+04-04-2022,PO0821,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,49,7,343,Outpatient Department
+19-12-2021,PO0822,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,29,300,8700,Surgical Department
+14-09-2021,PO0823,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,32,15,480,Paramedical Department
+16-07-2022,PO0824,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,49,12,588,Radiology Department
+17-11-2021,PO0825,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,43,60,2580,Surgical Department
+18-08-2021,PO0826,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,35,150,5250,Surgical Department
+17-07-2022,PO0827,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,43,60,2580,Nursing Department
+02-05-2022,PO0828,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,6,2000,12000,Surgical Department
+15-09-2022,PO0829,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,27,8,216,Nursing Department
+15-06-2022,PO0830,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,19,20,380,Nursing Department
+30-11-2022,PO0831,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,38,5,190,Nursing Department
+04-08-2021,PO0832,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,39,100,3900,Nursing Department
+22-08-2022,PO0833,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,28,10,280,Surgical Department
+13-04-2021,PO0834,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,1,200,200,Surgical Department
+16-04-2022,PO0835,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,11,5,55,Surgical Department
+05-01-2022,PO0836,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,17,1200,20400,Surgical Department
+16-07-2021,PO0837,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,31,150,4650,Paramedical Department
+11-09-2021,PO0838,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,7,35,245,Surgical Department
+18-11-2022,PO0839,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,8,144,1152,Paramedical Department
+01-12-2021,PO0840,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,2,1750,3500,Paramedical Department
+01-01-2022,PO0841,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,40,2000,80000,Surgical Department
+14-07-2021,PO0842,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,43,2,86,Surgical Department
+11-04-2021,PO0843,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,12,13,156,Nursing Department
+12-09-2022,PO0844,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,26,10,260,Paramedical Department
+12-12-2021,PO0845,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,31,120,3720,Surgical Department
+16-08-2021,PO0846,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,13,100,1300,Surgical Department
+03-12-2022,PO0847,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,40,600,24000,Nursing Department
+22-10-2021,PO0848,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,31,1,31,Surgical Department
+11-10-2022,PO0849,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,35,250,8750,Surgical Department
+21-05-2021,PO0850,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,35,10,350,Surgical Department
+06-04-2021,PO0851,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,17,35,595,Nursing Department
+08-07-2021,PO0852,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,23,180,4140,Surgical Department
+19-01-2022,PO0853,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,25,1600,40000,Surgical Department
+11-08-2021,PO0854,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,4,60,240,Radiology Department
+25-07-2021,PO0855,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,32,60,1920,Paramedical Department
+03-08-2021,PO0856,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,49,3000,147000,Surgical Department
+02-07-2021,PO0857,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,25,85,2125,Nursing Department
+27-12-2022,PO0858,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,21,15,315,Radiology Department
+21-12-2021,PO0859,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,26,5,130,Nursing Department
+12-08-2021,PO0860,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,20,250,5000,Surgical Department
+21-09-2022,PO0861,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,37,1200,44400,Surgical Department
+26-08-2022,PO0862,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,32,1500,48000,Surgical Department
+29-08-2022,PO0863,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,9,80,720,Outpatient Department
+01-07-2022,PO0864,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,3,165,495,Nursing Department
+02-01-2022,PO0865,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,35,1250,43750,Surgical Department
+25-12-2022,PO0866,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,35,5,175,Surgical Department
+24-09-2022,PO0867,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,4,7,28,Surgical Department
+16-07-2021,PO0868,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,47,180,8460,Nursing Department
+05-02-2022,PO0869,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,22,10,220,Nursing Department
+25-06-2022,PO0870,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,28,100,2800,Nursing Department
+10-09-2022,PO0871,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,32,2000,64000,Paramedical Department
+10-12-2021,PO0872,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,5,875,4375,Radiology Department
+19-10-2021,PO0873,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,49,20,980,Paramedical Department
+13-09-2021,PO0874,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,38,260,9880,Outpatient Department
+20-12-2021,PO0875,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,36,12,432,Paramedical Department
+16-07-2022,PO0876,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,26,7,182,Surgical Department
+17-09-2021,PO0877,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,21,300,6300,Paramedical Department
+21-07-2021,PO0878,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,30,15,450,Surgical Department
+22-01-2022,PO0879,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,33,12,396,Surgical Department
+30-10-2022,PO0880,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,10,60,600,Surgical Department
+28-05-2021,PO0881,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,50,150,7500,Nursing Department
+28-10-2021,PO0882,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,29,60,1740,Surgical Department
+11-04-2022,PO0883,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,25,2000,50000,Radiology Department
+21-12-2022,PO0884,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,31,8,248,Paramedical Department
+05-09-2022,PO0885,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,20,20,400,Radiology Department
+27-07-2021,PO0886,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,46,5,230,Paramedical Department
+13-02-2022,PO0887,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,47,100,4700,Surgical Department
+19-06-2021,PO0888,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,2,10,20,Outpatient Department
+22-06-2021,PO0889,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,49,200,9800,Surgical Department
+27-12-2022,PO0890,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,39,5,195,Nursing Department
+07-09-2022,PO0891,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,29,1200,34800,Nursing Department
+13-01-2022,PO0892,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,20,150,3000,Nursing Department
+08-09-2021,PO0893,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,44,35,1540,Outpatient Department
+22-10-2021,PO0894,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,46,144,6624,Surgical Department
+25-11-2022,PO0895,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,8,1750,14000,Nursing Department
+16-11-2021,PO0896,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,34,2000,68000,Paramedical Department
+26-07-2021,PO0897,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,14,2,28,Paramedical Department
+28-07-2021,PO0898,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,25,13,325,Paramedical Department
+26-11-2021,PO0899,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,28,10,280,Surgical Department
+21-06-2022,PO0900,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,36,120,4320,Surgical Department
+09-09-2021,PO0901,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,20,100,2000,Surgical Department
+19-12-2022,PO0902,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,31,600,18600,Surgical Department
+15-07-2021,PO0903,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,22,1,22,Nursing Department
+17-08-2021,PO0904,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,45,250,11250,Surgical Department
+02-10-2022,PO0905,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,48,10,480,Surgical Department
+03-04-2022,PO0906,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,31,35,1085,Paramedical Department
+21-07-2022,PO0907,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,32,180,5760,Paramedical Department
+11-06-2021,PO0908,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,40,1600,64000,Paramedical Department
+13-08-2022,PO0909,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,31,60,1860,Paramedical Department
+09-10-2022,PO0910,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,12,60,720,Paramedical Department
+28-08-2022,PO0911,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,39,3000,117000,Outpatient Department
+05-05-2022,PO0912,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,46,85,3910,Nursing Department
+02-12-2021,PO0913,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,50,15,750,Nursing Department
+25-01-2022,PO0914,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,45,5,225,Surgical Department
+04-07-2022,PO0915,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,34,250,8500,Paramedical Department
+24-10-2021,PO0916,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,6,1200,7200,Nursing Department
+16-02-2022,PO0917,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,20,1500,30000,Radiology Department
+10-06-2021,PO0918,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,42,80,3360,Surgical Department
+15-07-2021,PO0919,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,6,165,990,Outpatient Department
+08-09-2021,PO0920,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,14,1250,17500,Outpatient Department
+01-08-2022,PO0921,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,13,5,65,Paramedical Department
+26-09-2021,PO0922,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,8,7,56,Surgical Department
+15-12-2021,PO0923,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,28,180,5040,Nursing Department
+19-02-2022,PO0924,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,13,10,130,Outpatient Department
+23-06-2021,PO0925,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,36,100,3600,Outpatient Department
+09-03-2022,PO0926,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,5,2000,10000,Outpatient Department
+03-08-2021,PO0927,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,11,875,9625,Nursing Department
+23-10-2022,PO0928,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,44,20,880,Surgical Department
+03-12-2021,PO0929,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,8,260,2080,Outpatient Department
+16-05-2021,PO0930,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,38,12,456,Nursing Department
+05-04-2022,PO0931,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,25,7,175,Nursing Department
+15-12-2021,PO0932,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,43,300,12900,Nursing Department
+11-09-2021,PO0933,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,2,15,30,Nursing Department
+22-05-2021,PO0934,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,3,12,36,Paramedical Department
+22-11-2021,PO0935,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,14,60,840,Outpatient Department
+24-10-2021,PO0936,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,30,150,4500,Nursing Department
+08-04-2022,PO0937,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,28,60,1680,Surgical Department
+16-04-2021,PO0938,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,44,2000,88000,Nursing Department
+09-09-2022,PO0939,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,21,8,168,Surgical Department
+23-04-2021,PO0940,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,50,20,1000,Surgical Department
+31-12-2021,PO0941,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,23,5,115,Surgical Department
+09-06-2022,PO0942,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,6,100,600,Nursing Department
+30-11-2022,PO0943,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,1,10,10,Nursing Department
+12-04-2022,PO0944,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,30,200,6000,Nursing Department
+07-09-2022,PO0945,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,28,5,140,Outpatient Department
+17-06-2021,PO0946,IT11,Microscope,Cardinal Health,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,1,94,EA,1,16,1200,19200,Paramedical Department
+15-03-2022,PO0947,IT12,Otoscope,Becton Dickinson,390,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,20,68,EA,1,6,150,900,Radiology Department
+21-07-2022,PO0948,IT13,Thermometer,General Electric,350,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,20,7,EA,1,40,35,1400,Surgical Department
+14-06-2022,PO0949,IT14,Saline Bag,Medtronic PLC,335,DZ,DZ,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,39,DZ,12,2,144,288,Surgical Department
+05-07-2022,PO0950,IT15,Syringe,Siemens Healthineers,307,PK50,PK50,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,22,99,PK50,50,19,1750,33250,Nursing Department
+17-09-2021,PO0951,IT16,X-ray Machine,Johnson & Johnson,301,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,13,96,EA,1,12,2000,24000,Outpatient Department
+25-11-2022,PO0952,IT17,Bandag,Teleflex,315,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,5,95,EA,1,7,2,14,Outpatient Department
+30-04-2021,PO0953,IT18,Crutches,3M Company,372,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,23,82,EA,1,11,13,143,Surgical Department
+12-02-2022,PO0954,IT19,Plaster,Terumo,351,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,16,2,EA,1,3,10,30,Nursing Department
+26-08-2021,PO0955,IT20,Cotton Wool,Nipro,347,DZ,DZ,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,2,DZ,12,5,120,600,Surgical Department
+29-05-2021,PO0956,IT21,Surgical Mask,Poly Medicure Ltd,318,PK100,PK100,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,16,30,PK100,100,22,100,2200,Nursing Department
+04-02-2022,PO0957,IT22,Oxygen Mask,Ribbel International Ltd,378,PK50,PK50,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,19,80,PK50,50,46,600,27600,Surgical Department
+28-10-2022,PO0958,IT23,Dropper,Advin Healthcare,324,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,16,70,EA,1,48,1,48,Nursing Department
+12-04-2021,PO0959,IT24,Needle,Aegis Lifesciences Private Limited,398,PK50,PK50,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,1,28,PK50,50,15,250,3750,Surgical Department
+25-04-2022,PO0960,IT25,Cane,Smiths Medical,365,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,9,28,EA,1,2,10,20,Nursing Department
+26-09-2022,PO0961,IT26,Surgical Clamps,Cardinal Health,372,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,15,61,EA,1,8,35,280,Surgical Department
+12-10-2021,PO0962,IT27,Forceps,Becton Dickinson,390,DZ,DZ,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,11,14,DZ,12,19,180,3420,Outpatient Department
+14-07-2021,PO0963,IT28,Surgical Table,General Electric,350,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,20,13,EA,1,34,1600,54400,Surgical Department
+27-04-2022,PO0964,IT29,Utility Table,Medtronic PLC,335,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,14,42,EA,1,33,60,1980,Outpatient Department
+11-12-2022,PO0965,IT30,Instrument Table,Siemens Healthineers,307,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,9,22,EA,1,38,60,2280,Paramedical Department
+21-02-2022,PO0966,IT31,Ventilator,Johnson & Johnson,301,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,20,7,EA,1,35,3000,105000,Paramedical Department
+14-10-2021,PO0967,IT32,Mayo Stands,Teleflex,315,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,6,91,EA,1,35,85,2975,Surgical Department
+26-12-2022,PO0968,IT33,Kickbuckets,3M Company,372,EA,EA,eSolutions,V090,Charlotte,No,1013,enim,TM,24-01-2021,31-11-2021,15,37,EA,1,20,15,300,Surgical Department
+17-02-2022,PO0969,IT34,Arm Supports,Terumo,351,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,16,29,EA,1,35,5,175,Nursing Department
+25-08-2022,PO0970,IT35,Medical Syringe Infusion,Nipro,347,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,18,23,EA,1,44,250,11000,Surgical Department
+07-09-2021,PO0971,IT36,Pacemakers,Poly Medicure Ltd,318,EA,EA,Cerner Health Services HDX,V928,San Antonio,Yes,1016,metus sapien,FP,29-05-2021,29-08-2022,3,37,EA,1,48,1200,57600,Surgical Department
+15-06-2022,PO0972,IT37,Defibrillators,Ribbel International Ltd,378,EA,EA,myhELO,V653,Salt Lake City,Yes,1017,in hac habitasse platea,FP,28-07-2021,06-11-2022,14,61,EA,1,31,1500,46500,Outpatient Department
+10-07-2021,PO0973,IT38,Wheelchairs,Advin Healthcare,324,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,18,17,EA,1,46,80,3680,Paramedical Department
+19-05-2021,PO0974,IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,EA,EA,Toyon Associates Inc,V305,New York,Yes,1019,quam pharetra magna ac,FP,16-10-2021,02-12-2022,17,12,EA,1,30,165,4950,Surgical Department
+26-02-2022,PO0975,IT40,Needle Holder,Smiths Medical,365,PK50,PK50,Healthcare IP,V425,Denver,Yes,1020,viverra dapibus,CR,28-04-2021,25-10-2022,13,95,PK50,50,46,1250,57500,Surgical Department
+30-03-2022,PO0976,IT41,Medicine Cup,Cardinal Health,372,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,12,84,EA,1,26,5,130,Surgical Department
+28-11-2022,PO0977,IT42,Gauze,Becton Dickinson,390,EA,EA,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,24,10,EA,1,50,7,350,Surgical Department
+25-06-2022,PO0978,IT43,Forceps,General Electric,350,DZ,DZ,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,6,76,DZ,12,5,180,900,Paramedical Department
+25-05-2021,PO0979,IT44,Trays,Medtronic PLC,335,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,20,67,EA,1,17,10,170,Surgical Department
+22-10-2022,PO0980,IT45,Cotton Swabs,Siemens Healthineers,307,PK100,PK100,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,4,60,PK100,100,45,100,4500,Surgical Department
+30-03-2022,PO0981,IT46,Surgical lights,Johnson & Johnson,301,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,17,75,EA,1,3,2000,6000,Nursing Department
+26-11-2022,PO0982,IT47,Anesthesia machine,Teleflex,315,EA,EA,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,13,14,EA,1,33,875,28875,Outpatient Department
+28-05-2021,PO0983,IT48,Walkers,3M Company,372,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,21,95,EA,1,4,20,80,Radiology Department
+22-02-2022,PO0984,IT49,Tourniquet,Terumo,351,EA,EA,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,20,85,EA,1,24,260,6240,Radiology Department
+18-03-2022,PO0985,IT50,Splints,Nipro,347,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,21,74,EA,1,46,12,552,Outpatient Department
+08-06-2021,PO0986,IT51,Slings,Poly Medicure Ltd,318,EA,EA,Prevounce Health,V971,Houston,Yes,1018,proin at,FP,14-11-2021,19-11-2022,14,60,EA,1,2,7,14,Paramedical Department
+31-10-2022,PO0987,IT52,ECG Machine,Ribbel International Ltd,378,EA,EA,Noble House,V624,Dallas,Yes,1012,massa volutpat convallis,TM,13-06-2021,17-01-2023,24,82,EA,1,32,300,9600,Surgical Department
+10-04-2021,PO0988,IT53,Nebulizers,Advin Healthcare,324,EA,EA,eSolutions,V090,Charlotte,Yes,1013,enim,TM,24-01-2021,31-11-2021,22,31,EA,1,50,15,750,Surgical Department
+01-12-2021,PO0989,IT54,Sutures,Aegis Lifesciences Private Limited,398,EA,EA,Experian Health Inc,V501,New York,Yes,1014,pretium quis lectus,TM,06-07-2021,01-08-2022,22,23,EA,1,43,12,516,Surgical Department
+10-04-2021,PO0990,IT55,Braces,Smiths Medical,365,EA,EA,Eligible Inc,V213,Chicago,Yes,1015,sagittis sapien cum,FP,20-01-2021,07-10-2022,4,41,EA,1,11,60,660,Surgical Department
+12-06-2021,PO0991,IT1,Stethscope,Johnson & Johnson,301,EA,EA,WellSky,V135,New York,Yes,1001,enim in,TM,29-06-2021,26-11-2022,21,48,EA,1,37,150,5550,Nursing Department
+19-08-2021,PO0992,IT2,Scissor,Teleflex,315,DZ,DZ,Rivet,V672,Los Angeles,Yes,1002,est congue,FP,08-05-2021,04-05-2022,21,64,DZ,12,19,60,1140,Outpatient Department
+25-03-2022,PO0993,IT3,Stretcher,3M Company,372,EA,EA,FGA Inc,V522,Chicago,Yes,1003,pellentesque volutpat,TM,26-02-2021,31-07-2022,21,96,EA,1,26,2000,52000,Nursing Department
+25-12-2021,PO0994,IT4,Magnifier,Terumo,351,EA,EA,Quadax Inc,V797,Phoenix,Yes,1004,morbi,FP,12-05-2021,12-11-2022,2,99,EA,1,22,8,176,Surgical Department
+13-01-2022,PO0995,IT5,Weighing Scale,Nipro,347,EA,EA,OmniSys,V486,Houston,Yes,1005,libero,FP,23-07-2021,17-08-2022,2,93,EA,1,25,20,500,Radiology Department
+25-11-2021,PO0996,IT6,Torch,Poly Medicure Ltd,318,EA,EA,Etactics,V658,Oklahoma City,Yes,1006,duis faucibus,TM,30-05-2021,07-02-2023,2,76,EA,1,25,5,125,Paramedical Department
+17-11-2022,PO0997,IT7,Face Mask,Ribbel International Ltd,378,PK100,PK100,HealthXNet,V565,Denver,Yes,1007,convallis,TM,06-10-2021,21-09-2022,10,39,PK100,100,10,100,1000,Nursing Department
+31-07-2021,PO0998,IT8,First Aid Kit,Advin Healthcare,324,EA,EA,CompMed,V453,Salt Lake City,Yes,1008,mattis egestas metus,FP,22-04-2021,05-01-2023,15,72,EA,1,36,10,360,Nursing Department
+12-02-2022,PO0999,IT9,Gloves,Aegis Lifesciences Private Limited,398,PK100,PK100,Ritiko LLC,V878,Miami,Yes,1009,tincidunt,FP,18-03-2021,02-10-2022,16,17,PK100,100,3,200,600,Outpatient Department
+24-02-2022,PO1000,IT10,Scalpel,Smiths Medical,365,EA,EA,Ability Network,V222,Atlanta,Yes,1010,aenean fermentum,FP,12-06-2021,10-12-2022,13,46,EA,1,4,5,20,Nursing Department

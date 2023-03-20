@@ -1,0 +1,56 @@
+Item_ID,Item Description,Manufacturer_Name,Manufacturer_ID,Vendor_Name,Vendor_ID,Lowest_Unit_Of_Measure,Purchasing_Unit_Of_Measure,Quantity,Active_Status
+IT1,Stethscope,Johnson & Johnson,301,WellSky,V135,EA,EA,1,Yes
+IT2,Scissor,Teleflex,315,Rivet,V672,EA,EA,1,Yes
+IT3,Stretcher,3M Company,372,FGA Inc,V522,EA,EA,1,Yes
+IT4,Magnifier,Terumo,351,Quadax Inc,V797,EA,EA,1,Yes
+IT5,Weighing Scale,Nipro,347,OmniSys,V486,EA,EA,1,Yes
+IT6,Torch,Poly Medicure Ltd,318,Etactics,V658,EA,EA,1,Yes
+IT7,Face Mask,Ribbel International Ltd,378,HealthXNet,V565,EA,EA,1,Yes
+IT8,First Aid Kit,Advin Healthcare,324,CompMed,V453,EA,EA,1,Yes
+IT9,Gloves,Aegis Lifesciences Private Limited,398,Ritiko LLC,V878,EA,EA,1,Yes
+IT10,Scalpel,Smiths Medical,365,Ability Network,V222,EA,EA,1,Yes
+IT11,Microscope,Cardinal Health,372,Prevounce Health,V110,EA,EA,1,Yes
+IT12,Otoscope,Becton Dickinson,390,Noble House,V624,EA,EA,1,Yes
+IT13,Thermometer,General Electric,350,eSolutions,V090,EA,EA,1,Yes
+IT14,Saline Bag,Medtronic PLC,335,Experian Health Inc,V501,EA,EA,1,Yes
+IT15,Syringe,Siemens Healthineers,307,Eligible Inc,V213,EA,EA,1,Yes
+IT16,X-ray Machine,Johnson & Johnson,301,Cerner Health Services HDX,V928,EA,EA,1,Yes
+IT17,Bandag,Teleflex,315,myhELO,V653,EA,EA,1,Yes
+IT18,Crutches,3M Company,372,Prevounce Health,V971,EA,EA,1,Yes
+IT19,Plaster,Terumo,351,Toyon Associates Inc,V305,EA,EA,1,Yes
+IT20,Cotton Wool,Nipro,347,Healthcare IP,V425,EA,EA,1,Yes
+IT21,Surgical Mask,Poly Medicure Ltd,318,WellSky,V135,EA,EA,1,Yes
+IT22,Oxygen Mask,Ribbel International Ltd,378,Rivet,V672,EA,EA,1,Yes
+IT23,Dropper,Advin Healthcare,324,FGA Inc,V522,EA,EA,1,Yes
+IT24,Needle,Aegis Lifesciences Private Limited,398,Quadax Inc,V797,EA,EA,1,Yes
+IT25,Cane,Smiths Medical,365,OmniSys,V486,EA,EA,1,Yes
+IT26,Surgical Clamps,Cardinal Health,372,Etactics,V658,EA,EA,1,Yes
+IT27,Forceps,Becton Dickinson,390,HealthXNet,V565,EA,EA,1,Yes
+IT28,Surgical Table,General Electric,350,CompMed,V453,EA,EA,1,Yes
+IT29,Utility Table,Medtronic PLC,335,Ritiko LLC,V878,EA,EA,1,Yes
+IT30,Instrument Table,Siemens Healthineers,307,Ability Network,V222,EA,EA,1,Yes
+IT31,Ventilator,Johnson & Johnson,301,Prevounce Health,V110,EA,EA,1,Yes
+IT32,Mayo Stands,Teleflex,315,Noble House,V624,EA,EA,1,Yes
+IT33,Kickbuckets,3M Company,372,eSolutions,V090,EA,EA,1,Yes
+IT34,Arm Supports,Terumo,351,Experian Health Inc,V501,EA,EA,1,Yes
+IT35,Medical Syringe Infusion,Nipro,347,Eligible Inc,V213,EA,EA,1,Yes
+IT36,Pacemakers,Poly Medicure Ltd,318,Cerner Health Services HDX,V928,EA,EA,1,Yes
+IT37,Defibrillators,Ribbel International Ltd,378,myhELO,V653,EA,EA,1,Yes
+IT38,Wheelchairs,Advin Healthcare,324,Prevounce Health,V971,EA,EA,1,Yes
+IT39,Traction Equipment,Aegis Lifesciences Private Limited,398,Toyon Associates Inc,V305,EA,EA,1,Yes
+IT40,Needle Holder,Smiths Medical,365,Healthcare IP,V425,EA,EA,1,Yes
+IT41,Medicine Cup,Cardinal Health,372,WellSky,V135,EA,EA,1,Yes
+IT42,Gauze,Becton Dickinson,390,Rivet,V672,EA,EA,1,Yes
+IT43,Forceps,General Electric,350,FGA Inc,V522,EA,EA,1,Yes
+IT44,Trays,Medtronic PLC,335,Quadax Inc,V797,EA,EA,1,Yes
+IT45,Cotton Swabs,Siemens Healthineers,307,OmniSys,V486,EA,EA,1,Yes
+IT46,Surgical lights,Johnson & Johnson,301,Etactics,V658,EA,EA,1,Yes
+IT47,Anesthesia machine,Teleflex,315,HealthXNet,V565,EA,EA,1,Yes
+IT48,Walkers,3M Company,372,CompMed,V453,EA,EA,1,Yes
+IT49,Tourniquet,Terumo,351,Ritiko LLC,V878,EA,EA,1,Yes
+IT50,Splints,Nipro,347,Ability Network,V222,EA,EA,1,Yes
+IT51,Slings,Poly Medicure Ltd,318,Prevounce Health,V110,EA,EA,1,Yes
+IT52,ECG Machine,Ribbel International Ltd,378,Noble House,V624,EA,EA,1,Yes
+IT53,Nebulizers,Advin Healthcare,324,eSolutions,V090,EA,EA,1,Yes
+IT54,Sutures,Aegis Lifesciences Private Limited,398,Experian Health Inc,V501,EA,EA,1,Yes
+IT55,Braces,Smiths Medical,365,Eligible Inc,V213,EA,EA,1,Yes
