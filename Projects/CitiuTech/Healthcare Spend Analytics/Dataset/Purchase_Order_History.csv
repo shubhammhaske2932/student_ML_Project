@@ -1,0 +1,1001 @@
+PO_Date,PO_Number,Item_ID,Item_Description,Manufacturer_Name,Vendor_Name,Department,"Unit_Price ($)	",Unit_Of_Measure,Quantity_(at_UOM),Total_Price ($)
+22-06-2022,PO0001,IT1,Stethscope,Johnson & Johnson,WellSky,Outpatient Department,150,EA,48,7200
+11-08-2022,PO0002,IT2,Scissor,Teleflex,Rivet,Surgical Department,5,EA,4,20
+24-08-2021,PO0003,IT3,Stretcher,3M Company,FGA Inc,Paramedical Department,2000,EA,34,68000
+31-05-2021,PO0004,IT4,Magnifier,Terumo,Quadax Inc,Paramedical Department,8,EA,29,232
+13-11-2022,PO0005,IT5,Weighing Scale,Nipro,OmniSys,Surgical Department,20,EA,5,100
+16-01-2022,PO0006,IT6,Torch,Poly Medicure Ltd,Etactics,Paramedical Department,5,EA,35,175
+22-06-2021,PO0007,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Nursing Department,1,EA,47,47
+10-10-2022,PO0008,IT8,First Aid Kit,Advin Healthcare,CompMed,Outpatient Department,10,EA,6,60
+23-10-2021,PO0009,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Nursing Department,2,EA,10,20
+04-05-2022,PO0010,IT10,Scalpel,Smiths Medical,Ability Network,Nursing Department,5,EA,30,150
+11-10-2021,PO0011,IT11,Microscope,Cardinal Health,Prevounce Health,Radiology Department,1200,EA,25,30000
+03-09-2021,PO0012,IT12,Otoscope,Becton Dickinson,Noble House,Nursing Department,150,EA,48,7200
+10-09-2022,PO0013,IT13,Thermometer,General Electric,eSolutions,Surgical Department,35,EA,32,1120
+08-09-2022,PO0014,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Surgical Department,12,EA,19,228
+06-09-2022,PO0015,IT15,Syringe,Siemens Healthineers,Eligible Inc,Paramedical Department,35,EA,2,70
+18-07-2021,PO0016,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Nursing Department,2000,EA,41,82000
+22-04-2021,PO0017,IT17,Bandag,Teleflex,myhELO,Radiology Department,2,EA,15,30
+03-02-2022,PO0018,IT18,Crutches,3M Company,Prevounce Health,Surgical Department,13,EA,7,91
+05-09-2021,PO0019,IT19,Plaster,Terumo,Toyon Associates Inc,Outpatient Department,10,EA,11,110
+06-11-2022,PO0020,IT20,Cotton Wool,Nipro,Healthcare IP,Radiology Department,10,EA,19,190
+30-05-2022,PO0021,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Surgical Department,1,EA,41,41
+02-04-2022,PO0022,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Surgical Department,12,EA,22,264
+22-10-2021,PO0023,IT23,Dropper,Advin Healthcare,FGA Inc,Nursing Department,1,EA,45,45
+31-07-2021,PO0024,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Surgical Department,5,EA,7,35
+25-01-2022,PO0025,IT25,Cane,Smiths Medical,OmniSys,Surgical Department,10,EA,47,470
+27-05-2021,PO0026,IT26,Surgical Clamps,Cardinal Health,Etactics,Surgical Department,35,EA,38,1330
+24-09-2022,PO0027,IT27,Forceps,Becton Dickinson,HealthXNet,Outpatient Department,15,EA,24,360
+30-06-2021,PO0028,IT28,Surgical Table,General Electric,CompMed,Radiology Department,1600,EA,2,3200
+09-05-2022,PO0029,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Surgical Department,60,EA,11,660
+13-08-2022,PO0030,IT30,Instrument Table,Siemens Healthineers,Ability Network,Surgical Department,60,EA,18,1080
+14-06-2022,PO0031,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Paramedical Department,3000,EA,24,72000
+05-05-2021,PO0032,IT32,Mayo Stands,Teleflex,Noble House,Outpatient Department,85,EA,41,3485
+22-08-2021,PO0033,IT33,Kickbuckets,3M Company,eSolutions,Nursing Department,15,EA,16,240
+10-10-2021,PO0034,IT34,Arm Supports,Terumo,Experian Health Inc,Paramedical Department,5,EA,16,80
+12-08-2022,PO0035,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Surgical Department,250,EA,31,7750
+05-10-2022,PO0036,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Paramedical Department,1200,EA,12,14400
+26-01-2022,PO0037,IT37,Defibrillators,Ribbel International Ltd,myhELO,Outpatient Department,1500,EA,47,70500
+03-10-2021,PO0038,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Surgical Department,80,EA,17,1360
+07-09-2022,PO0039,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Nursing Department,165,EA,29,4785
+18-07-2021,PO0040,IT40,Needle Holder,Smiths Medical,Healthcare IP,Nursing Department,25,EA,8,200
+09-06-2021,PO0041,IT41,Medicine Cup,Cardinal Health,WellSky,Surgical Department,5,EA,7,35
+21-08-2021,PO0042,IT42,Gauze,Becton Dickinson,Rivet,Nursing Department,7,EA,42,294
+04-10-2022,PO0043,IT43,Forceps,General Electric,FGA Inc,Surgical Department,15,EA,20,300
+10-09-2021,PO0044,IT44,Trays,Medtronic PLC,Quadax Inc,Nursing Department,10,EA,35,350
+01-10-2021,PO0045,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Nursing Department,1,EA,20,20
+27-04-2021,PO0046,IT46,Surgical lights,Johnson & Johnson,Etactics,Radiology Department,2000,EA,44,88000
+25-10-2022,PO0047,IT47,Anesthesia machine,Teleflex,HealthXNet,Surgical Department,875,EA,4,3500
+17-10-2022,PO0048,IT48,Walkers,3M Company,CompMed,Radiology Department,20,EA,5,100
+15-11-2022,PO0049,IT49,Tourniquet,Terumo,Ritiko LLC,Nursing Department,260,EA,37,9620
+23-05-2022,PO0050,IT50,Splints,Nipro,Ability Network,Paramedical Department,12,EA,8,96
+26-06-2021,PO0051,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Nursing Department,7,EA,30,210
+08-08-2021,PO0052,IT52,ECG Machine,Ribbel International Ltd,Noble House,Outpatient Department,300,EA,18,5400
+04-07-2021,PO0053,IT53,Nebulizers,Advin Healthcare,eSolutions,Paramedical Department,15,EA,2,30
+02-05-2021,PO0054,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Radiology Department,12,EA,3,36
+11-12-2022,PO0055,IT55,Braces,Smiths Medical,Eligible Inc,Nursing Department,60,EA,5,300
+20-10-2022,PO0056,IT1,Stethscope,Johnson & Johnson,WellSky,Surgical Department,150,EA,27,4050
+18-12-2021,PO0057,IT2,Scissor,Teleflex,Rivet,Nursing Department,5,EA,17,85
+30-03-2022,PO0058,IT3,Stretcher,3M Company,FGA Inc,Nursing Department,2000,EA,47,94000
+09-02-2022,PO0059,IT4,Magnifier,Terumo,Quadax Inc,Paramedical Department,8,EA,22,176
+11-02-2022,PO0060,IT5,Weighing Scale,Nipro,OmniSys,Paramedical Department,20,EA,10,200
+14-07-2021,PO0061,IT6,Torch,Poly Medicure Ltd,Etactics,Paramedical Department,5,EA,14,70
+06-03-2022,PO0062,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Nursing Department,1,EA,18,18
+21-12-2021,PO0063,IT8,First Aid Kit,Advin Healthcare,CompMed,Paramedical Department,10,EA,18,180
+06-05-2022,PO0064,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Radiology Department,2,EA,22,44
+06-03-2022,PO0065,IT10,Scalpel,Smiths Medical,Ability Network,Paramedical Department,5,EA,22,110
+17-03-2022,PO0066,IT11,Microscope,Cardinal Health,Prevounce Health,Surgical Department,1200,EA,9,10800
+04-05-2022,PO0067,IT12,Otoscope,Becton Dickinson,Noble House,Surgical Department,150,EA,2,300
+21-02-2022,PO0068,IT13,Thermometer,General Electric,eSolutions,Nursing Department,35,EA,15,525
+04-12-2022,PO0069,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Nursing Department,12,EA,18,216
+23-06-2022,PO0070,IT15,Syringe,Siemens Healthineers,Eligible Inc,Surgical Department,35,EA,20,700
+02-10-2021,PO0071,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Paramedical Department,2000,EA,22,44000
+28-01-2022,PO0072,IT17,Bandag,Teleflex,myhELO,Outpatient Department,2,EA,24,48
+30-11-2022,PO0073,IT18,Crutches,3M Company,Prevounce Health,Paramedical Department,13,EA,39,507
+28-09-2021,PO0074,IT19,Plaster,Terumo,Toyon Associates Inc,Nursing Department,10,EA,14,140
+06-07-2022,PO0075,IT20,Cotton Wool,Nipro,Healthcare IP,Nursing Department,10,EA,33,330
+18-03-2022,PO0076,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Surgical Department,1,EA,40,40
+14-12-2022,PO0077,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Nursing Department,12,EA,19,228
+02-07-2022,PO0078,IT23,Dropper,Advin Healthcare,FGA Inc,Surgical Department,1,EA,38,38
+25-09-2021,PO0079,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Surgical Department,5,EA,41,205
+23-12-2021,PO0080,IT25,Cane,Smiths Medical,OmniSys,Surgical Department,10,EA,33,330
+05-01-2022,PO0081,IT26,Surgical Clamps,Cardinal Health,Etactics,Surgical Department,35,EA,15,525
+25-12-2021,PO0082,IT27,Forceps,Becton Dickinson,HealthXNet,Surgical Department,15,EA,37,555
+19-04-2022,PO0083,IT28,Surgical Table,General Electric,CompMed,Nursing Department,1600,EA,40,64000
+29-09-2021,PO0084,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Outpatient Department,60,EA,6,360
+29-12-2022,PO0085,IT30,Instrument Table,Siemens Healthineers,Ability Network,Nursing Department,60,EA,49,2940
+20-07-2021,PO0086,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Surgical Department,3000,EA,27,81000
+11-08-2022,PO0087,IT32,Mayo Stands,Teleflex,Noble House,Paramedical Department,85,EA,45,3825
+30-10-2022,PO0088,IT33,Kickbuckets,3M Company,eSolutions,Paramedical Department,15,EA,38,570
+29-11-2022,PO0089,IT34,Arm Supports,Terumo,Experian Health Inc,Paramedical Department,5,EA,27,135
+13-11-2022,PO0090,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Outpatient Department,250,EA,45,11250
+02-09-2021,PO0091,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Nursing Department,1200,EA,26,31200
+31-08-2022,PO0092,IT37,Defibrillators,Ribbel International Ltd,myhELO,Radiology Department,1500,EA,12,18000
+12-07-2021,PO0093,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Paramedical Department,80,EA,1,80
+19-03-2022,PO0094,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Outpatient Department,165,EA,50,8250
+10-04-2022,PO0095,IT40,Needle Holder,Smiths Medical,Healthcare IP,Nursing Department,25,EA,15,375
+28-10-2021,PO0096,IT41,Medicine Cup,Cardinal Health,WellSky,Surgical Department,5,EA,4,20
+03-02-2022,PO0097,IT42,Gauze,Becton Dickinson,Rivet,Paramedical Department,7,EA,32,224
+19-08-2022,PO0098,IT43,Forceps,General Electric,FGA Inc,Radiology Department,15,EA,27,405
+05-12-2021,PO0099,IT44,Trays,Medtronic PLC,Quadax Inc,Nursing Department,10,EA,43,430
+22-09-2021,PO0100,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Nursing Department,1,EA,45,45
+05-07-2022,PO0101,IT46,Surgical lights,Johnson & Johnson,Etactics,Nursing Department,2000,EA,44,88000
+29-11-2022,PO0102,IT47,Anesthesia machine,Teleflex,HealthXNet,Surgical Department,875,EA,15,13125
+19-04-2022,PO0103,IT48,Walkers,3M Company,CompMed,Outpatient Department,20,EA,31,620
+05-10-2021,PO0104,IT49,Tourniquet,Terumo,Ritiko LLC,Outpatient Department,260,EA,12,3120
+30-07-2022,PO0105,IT50,Splints,Nipro,Ability Network,Outpatient Department,12,EA,14,168
+18-05-2021,PO0106,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Outpatient Department,7,EA,41,287
+04-11-2021,PO0107,IT52,ECG Machine,Ribbel International Ltd,Noble House,Surgical Department,300,EA,6,1800
+10-12-2022,PO0108,IT53,Nebulizers,Advin Healthcare,eSolutions,Surgical Department,15,EA,9,135
+18-03-2022,PO0109,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Surgical Department,12,EA,26,312
+28-11-2022,PO0110,IT55,Braces,Smiths Medical,Eligible Inc,Paramedical Department,60,EA,8,480
+25-06-2022,PO0111,IT1,Stethscope,Johnson & Johnson,WellSky,Nursing Department,150,EA,7,1050
+23-03-2022,PO0112,IT2,Scissor,Teleflex,Rivet,Surgical Department,5,EA,9,45
+13-04-2022,PO0113,IT3,Stretcher,3M Company,FGA Inc,Paramedical Department,2000,EA,5,10000
+21-05-2022,PO0114,IT4,Magnifier,Terumo,Quadax Inc,Outpatient Department,8,EA,36,288
+24-02-2022,PO0115,IT5,Weighing Scale,Nipro,OmniSys,Surgical Department,20,EA,18,360
+29-05-2022,PO0116,IT6,Torch,Poly Medicure Ltd,Etactics,Nursing Department,5,EA,47,235
+09-12-2021,PO0117,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Nursing Department,1,EA,36,36
+26-01-2022,PO0118,IT8,First Aid Kit,Advin Healthcare,CompMed,Nursing Department,10,EA,21,210
+15-12-2021,PO0119,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Nursing Department,2,EA,49,98
+13-12-2022,PO0120,IT10,Scalpel,Smiths Medical,Ability Network,Outpatient Department,5,EA,23,115
+15-04-2021,PO0121,IT11,Microscope,Cardinal Health,Prevounce Health,Nursing Department,1200,EA,40,48000
+21-09-2021,PO0122,IT12,Otoscope,Becton Dickinson,Noble House,Nursing Department,150,EA,46,6900
+19-08-2022,PO0123,IT13,Thermometer,General Electric,eSolutions,Nursing Department,35,EA,32,1120
+24-06-2021,PO0124,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Surgical Department,12,EA,6,72
+02-02-2022,PO0125,IT15,Syringe,Siemens Healthineers,Eligible Inc,Surgical Department,35,EA,32,1120
+05-09-2022,PO0126,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Surgical Department,2000,EA,33,66000
+13-05-2022,PO0127,IT17,Bandag,Teleflex,myhELO,Paramedical Department,2,EA,29,58
+16-07-2021,PO0128,IT18,Crutches,3M Company,Prevounce Health,Nursing Department,13,EA,38,494
+20-06-2021,PO0129,IT19,Plaster,Terumo,Toyon Associates Inc,Radiology Department,10,EA,24,240
+05-09-2022,PO0130,IT20,Cotton Wool,Nipro,Healthcare IP,Surgical Department,10,EA,10,100
+24-08-2021,PO0131,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Surgical Department,1,EA,49,49
+14-07-2021,PO0132,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Surgical Department,12,EA,2,24
+01-06-2021,PO0133,IT23,Dropper,Advin Healthcare,FGA Inc,Surgical Department,1,EA,46,46
+25-12-2021,PO0134,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Paramedical Department,5,EA,19,95
+13-08-2022,PO0135,IT25,Cane,Smiths Medical,OmniSys,Nursing Department,10,EA,22,220
+31-05-2022,PO0136,IT26,Surgical Clamps,Cardinal Health,Etactics,Surgical Department,35,EA,33,1155
+13-09-2022,PO0137,IT27,Forceps,Becton Dickinson,HealthXNet,Surgical Department,15,EA,42,630
+20-09-2021,PO0138,IT28,Surgical Table,General Electric,CompMed,Outpatient Department,1600,EA,27,43200
+18-03-2022,PO0139,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Surgical Department,60,EA,10,600
+28-07-2022,PO0140,IT30,Instrument Table,Siemens Healthineers,Ability Network,Surgical Department,60,EA,15,900
+17-11-2021,PO0141,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Nursing Department,3000,EA,27,81000
+19-05-2021,PO0142,IT32,Mayo Stands,Teleflex,Noble House,Paramedical Department,85,EA,29,2465
+19-11-2021,PO0143,IT33,Kickbuckets,3M Company,eSolutions,Outpatient Department,15,EA,27,405
+11-04-2022,PO0144,IT34,Arm Supports,Terumo,Experian Health Inc,Paramedical Department,5,EA,4,20
+17-06-2021,PO0145,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Paramedical Department,250,EA,35,8750
+13-05-2021,PO0146,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Nursing Department,1200,EA,36,43200
+05-12-2021,PO0147,IT37,Defibrillators,Ribbel International Ltd,myhELO,Nursing Department,1500,EA,6,9000
+18-10-2021,PO0148,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Outpatient Department,80,EA,34,2720
+15-07-2021,PO0149,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Surgical Department,165,EA,23,3795
+22-08-2021,PO0150,IT40,Needle Holder,Smiths Medical,Healthcare IP,Surgical Department,25,EA,36,900
+25-01-2022,PO0151,IT41,Medicine Cup,Cardinal Health,WellSky,Nursing Department,5,EA,28,140
+07-11-2022,PO0152,IT42,Gauze,Becton Dickinson,Rivet,Surgical Department,7,EA,8,56
+10-09-2022,PO0153,IT43,Forceps,General Electric,FGA Inc,Paramedical Department,15,EA,5,75
+16-05-2022,PO0154,IT44,Trays,Medtronic PLC,Quadax Inc,Outpatient Department,10,EA,41,410
+23-07-2021,PO0155,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Surgical Department,1,EA,25,25
+09-05-2022,PO0156,IT46,Surgical lights,Johnson & Johnson,Etactics,Surgical Department,2000,EA,39,78000
+07-01-2022,PO0157,IT47,Anesthesia machine,Teleflex,HealthXNet,Nursing Department,875,EA,30,26250
+31-07-2021,PO0158,IT48,Walkers,3M Company,CompMed,Nursing Department,20,EA,26,520
+21-09-2021,PO0159,IT49,Tourniquet,Terumo,Ritiko LLC,Nursing Department,260,EA,47,12220
+23-09-2021,PO0160,IT50,Splints,Nipro,Ability Network,Surgical Department,12,EA,33,396
+12-10-2021,PO0161,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Outpatient Department,7,EA,34,238
+05-09-2021,PO0162,IT52,ECG Machine,Ribbel International Ltd,Noble House,Outpatient Department,300,EA,8,2400
+01-05-2022,PO0163,IT53,Nebulizers,Advin Healthcare,eSolutions,Outpatient Department,15,EA,8,120
+07-04-2022,PO0164,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Surgical Department,12,EA,27,324
+22-03-2022,PO0165,IT55,Braces,Smiths Medical,Eligible Inc,Surgical Department,60,EA,41,2460
+23-03-2022,PO0166,IT1,Stethscope,Johnson & Johnson,WellSky,Nursing Department,150,EA,38,5700
+07-03-2022,PO0167,IT2,Scissor,Teleflex,Rivet,Surgical Department,5,EA,25,125
+16-09-2021,PO0168,IT3,Stretcher,3M Company,FGA Inc,Radiology Department,2000,EA,19,38000
+02-04-2022,PO0169,IT4,Magnifier,Terumo,Quadax Inc,Surgical Department,8,EA,30,240
+30-07-2022,PO0170,IT5,Weighing Scale,Nipro,OmniSys,Paramedical Department,20,EA,32,640
+11-12-2021,PO0171,IT6,Torch,Poly Medicure Ltd,Etactics,Surgical Department,5,EA,8,40
+22-09-2022,PO0172,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Surgical Department,1,EA,18,18
+11-08-2022,PO0173,IT8,First Aid Kit,Advin Healthcare,CompMed,Surgical Department,10,EA,47,470
+07-07-2022,PO0174,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Surgical Department,2,EA,20,40
+29-12-2021,PO0175,IT10,Scalpel,Smiths Medical,Ability Network,Surgical Department,5,EA,15,75
+26-06-2022,PO0176,IT11,Microscope,Cardinal Health,Prevounce Health,Nursing Department,1200,EA,14,16800
+25-01-2022,PO0177,IT12,Otoscope,Becton Dickinson,Noble House,Radiology Department,150,EA,9,1350
+08-11-2022,PO0178,IT13,Thermometer,General Electric,eSolutions,Surgical Department,35,EA,25,875
+29-08-2022,PO0179,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Paramedical Department,12,EA,7,84
+26-11-2022,PO0180,IT15,Syringe,Siemens Healthineers,Eligible Inc,Surgical Department,35,EA,31,1085
+09-11-2021,PO0181,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Paramedical Department,2000,EA,31,62000
+08-11-2022,PO0182,IT17,Bandag,Teleflex,myhELO,Nursing Department,2,EA,41,82
+08-05-2022,PO0183,IT18,Crutches,3M Company,Prevounce Health,Outpatient Department,13,EA,24,312
+24-05-2022,PO0184,IT19,Plaster,Terumo,Toyon Associates Inc,Surgical Department,10,EA,14,140
+04-08-2021,PO0185,IT20,Cotton Wool,Nipro,Healthcare IP,Nursing Department,10,EA,28,280
+19-06-2022,PO0186,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Paramedical Department,1,EA,20,20
+30-12-2022,PO0187,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Nursing Department,12,EA,12,144
+06-04-2022,PO0188,IT23,Dropper,Advin Healthcare,FGA Inc,Outpatient Department,1,EA,4,4
+06-12-2022,PO0189,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Paramedical Department,5,EA,44,220
+31-05-2022,PO0190,IT25,Cane,Smiths Medical,OmniSys,Radiology Department,10,EA,43,430
+26-11-2021,PO0191,IT26,Surgical Clamps,Cardinal Health,Etactics,Paramedical Department,35,EA,1,35
+09-06-2021,PO0192,IT27,Forceps,Becton Dickinson,HealthXNet,Surgical Department,15,EA,17,255
+31-07-2022,PO0193,IT28,Surgical Table,General Electric,CompMed,Nursing Department,1600,EA,24,38400
+08-01-2022,PO0194,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Nursing Department,60,EA,44,2640
+22-03-2022,PO0195,IT30,Instrument Table,Siemens Healthineers,Ability Network,Outpatient Department,60,EA,13,780
+10-12-2022,PO0196,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Surgical Department,3000,EA,20,60000
+09-04-2022,PO0197,IT32,Mayo Stands,Teleflex,Noble House,Surgical Department,85,EA,41,3485
+18-08-2021,PO0198,IT33,Kickbuckets,3M Company,eSolutions,Surgical Department,15,EA,36,540
+02-10-2021,PO0199,IT34,Arm Supports,Terumo,Experian Health Inc,Surgical Department,5,EA,12,60
+06-11-2022,PO0200,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Nursing Department,250,EA,44,11000
+22-05-2021,PO0201,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Nursing Department,1200,EA,43,51600
+31-01-2022,PO0202,IT37,Defibrillators,Ribbel International Ltd,myhELO,Nursing Department,1500,EA,45,67500
+28-06-2022,PO0203,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Surgical Department,80,EA,30,2400
+24-02-2022,PO0204,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Surgical Department,165,EA,33,5445
+03-05-2021,PO0205,IT40,Needle Holder,Smiths Medical,Healthcare IP,Nursing Department,25,EA,11,275
+27-08-2021,PO0206,IT41,Medicine Cup,Cardinal Health,WellSky,Surgical Department,5,EA,38,190
+21-03-2022,PO0207,IT42,Gauze,Becton Dickinson,Rivet,Surgical Department,7,EA,19,133
+24-10-2021,PO0208,IT43,Forceps,General Electric,FGA Inc,Surgical Department,15,EA,3,45
+19-10-2021,PO0209,IT44,Trays,Medtronic PLC,Quadax Inc,Outpatient Department,10,EA,31,310
+26-07-2021,PO0210,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Nursing Department,1,EA,15,15
+19-08-2022,PO0211,IT46,Surgical lights,Johnson & Johnson,Etactics,Nursing Department,2000,EA,31,62000
+06-04-2021,PO0212,IT47,Anesthesia machine,Teleflex,HealthXNet,Surgical Department,875,EA,41,35875
+27-07-2021,PO0213,IT48,Walkers,3M Company,CompMed,Surgical Department,20,EA,45,900
+19-05-2021,PO0214,IT49,Tourniquet,Terumo,Ritiko LLC,Radiology Department,260,EA,35,9100
+21-06-2021,PO0215,IT50,Splints,Nipro,Ability Network,Radiology Department,12,EA,48,576
+25-09-2021,PO0216,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Surgical Department,7,EA,41,287
+27-10-2022,PO0217,IT52,ECG Machine,Ribbel International Ltd,Noble House,Paramedical Department,300,EA,21,6300
+15-06-2021,PO0218,IT53,Nebulizers,Advin Healthcare,eSolutions,Surgical Department,15,EA,27,405
+21-11-2021,PO0219,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Nursing Department,12,EA,41,492
+24-04-2022,PO0220,IT55,Braces,Smiths Medical,Eligible Inc,Nursing Department,60,EA,13,780
+08-05-2021,PO0221,IT1,Stethscope,Johnson & Johnson,WellSky,Paramedical Department,150,EA,45,6750
+01-11-2021,PO0222,IT2,Scissor,Teleflex,Rivet,Nursing Department,5,EA,48,240
+23-06-2022,PO0223,IT3,Stretcher,3M Company,FGA Inc,Outpatient Department,2000,EA,40,80000
+23-09-2022,PO0224,IT4,Magnifier,Terumo,Quadax Inc,Surgical Department,8,EA,9,72
+03-11-2021,PO0225,IT5,Weighing Scale,Nipro,OmniSys,Nursing Department,20,EA,46,920
+20-06-2022,PO0226,IT6,Torch,Poly Medicure Ltd,Etactics,Paramedical Department,5,EA,9,45
+01-07-2021,PO0227,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Surgical Department,1,EA,46,46
+20-04-2021,PO0228,IT8,First Aid Kit,Advin Healthcare,CompMed,Outpatient Department,10,EA,29,290
+02-11-2021,PO0229,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Nursing Department,2,EA,23,46
+07-08-2021,PO0230,IT10,Scalpel,Smiths Medical,Ability Network,Nursing Department,5,EA,7,35
+08-06-2021,PO0231,IT11,Microscope,Cardinal Health,Prevounce Health,Outpatient Department,1200,EA,3,3600
+05-04-2022,PO0232,IT12,Otoscope,Becton Dickinson,Noble House,Nursing Department,150,EA,19,2850
+07-09-2021,PO0233,IT13,Thermometer,General Electric,eSolutions,Surgical Department,35,EA,41,1435
+11-02-2022,PO0234,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Radiology Department,12,EA,28,336
+21-02-2022,PO0235,IT15,Syringe,Siemens Healthineers,Eligible Inc,Outpatient Department,35,EA,8,280
+02-02-2022,PO0236,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Nursing Department,2000,EA,1,2000
+07-08-2021,PO0237,IT17,Bandag,Teleflex,myhELO,Surgical Department,2,EA,11,22
+05-03-2022,PO0238,IT18,Crutches,3M Company,Prevounce Health,Nursing Department,13,EA,34,442
+10-08-2022,PO0239,IT19,Plaster,Terumo,Toyon Associates Inc,Surgical Department,10,EA,11,110
+19-07-2021,PO0240,IT20,Cotton Wool,Nipro,Healthcare IP,Nursing Department,10,EA,17,170
+16-04-2021,PO0241,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Surgical Department,1,EA,12,12
+14-05-2021,PO0242,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Paramedical Department,12,EA,16,192
+18-10-2022,PO0243,IT23,Dropper,Advin Healthcare,FGA Inc,Nursing Department,1,EA,4,4
+22-02-2022,PO0244,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Paramedical Department,5,EA,1,5
+18-07-2021,PO0245,IT25,Cane,Smiths Medical,OmniSys,Nursing Department,10,EA,26,260
+08-11-2021,PO0246,IT26,Surgical Clamps,Cardinal Health,Etactics,Surgical Department,35,EA,38,1330
+19-12-2022,PO0247,IT27,Forceps,Becton Dickinson,HealthXNet,Nursing Department,15,EA,20,300
+14-06-2021,PO0248,IT28,Surgical Table,General Electric,CompMed,Radiology Department,1600,EA,40,64000
+22-05-2022,PO0249,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Surgical Department,60,EA,36,2160
+13-05-2021,PO0250,IT30,Instrument Table,Siemens Healthineers,Ability Network,Nursing Department,60,EA,27,1620
+26-11-2022,PO0251,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Nursing Department,3000,EA,8,24000
+29-10-2021,PO0252,IT32,Mayo Stands,Teleflex,Noble House,Surgical Department,85,EA,14,1190
+20-12-2021,PO0253,IT33,Kickbuckets,3M Company,eSolutions,Surgical Department,15,EA,15,225
+15-10-2021,PO0254,IT34,Arm Supports,Terumo,Experian Health Inc,Radiology Department,5,EA,20,100
+22-07-2021,PO0255,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Nursing Department,250,EA,26,6500
+02-08-2021,PO0256,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Paramedical Department,1200,EA,24,28800
+13-10-2022,PO0257,IT37,Defibrillators,Ribbel International Ltd,myhELO,Surgical Department,1500,EA,22,33000
+06-08-2021,PO0258,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Paramedical Department,80,EA,48,3840
+15-03-2022,PO0259,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Surgical Department,165,EA,42,6930
+23-11-2021,PO0260,IT40,Needle Holder,Smiths Medical,Healthcare IP,Nursing Department,25,EA,3,75
+10-08-2022,PO0261,IT41,Medicine Cup,Cardinal Health,WellSky,Paramedical Department,5,EA,32,160
+28-08-2022,PO0262,IT42,Gauze,Becton Dickinson,Rivet,Nursing Department,7,EA,33,231
+27-05-2022,PO0263,IT43,Forceps,General Electric,FGA Inc,Surgical Department,15,EA,27,405
+02-10-2021,PO0264,IT44,Trays,Medtronic PLC,Quadax Inc,Surgical Department,10,EA,30,300
+05-10-2022,PO0265,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Nursing Department,1,EA,8,8
+03-04-2021,PO0266,IT46,Surgical lights,Johnson & Johnson,Etactics,Paramedical Department,2000,EA,39,78000
+30-11-2021,PO0267,IT47,Anesthesia machine,Teleflex,HealthXNet,Surgical Department,875,EA,12,10500
+17-04-2022,PO0268,IT48,Walkers,3M Company,CompMed,Radiology Department,20,EA,23,460
+05-09-2021,PO0269,IT49,Tourniquet,Terumo,Ritiko LLC,Paramedical Department,260,EA,41,10660
+11-08-2021,PO0270,IT50,Splints,Nipro,Ability Network,Paramedical Department,12,EA,28,336
+21-05-2022,PO0271,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Paramedical Department,7,EA,30,210
+30-07-2022,PO0272,IT52,ECG Machine,Ribbel International Ltd,Noble House,Surgical Department,300,EA,38,11400
+12-07-2022,PO0273,IT53,Nebulizers,Advin Healthcare,eSolutions,Nursing Department,15,EA,7,105
+05-04-2021,PO0274,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Surgical Department,12,EA,41,492
+08-08-2021,PO0275,IT55,Braces,Smiths Medical,Eligible Inc,Surgical Department,60,EA,19,1140
+21-05-2021,PO0276,IT1,Stethscope,Johnson & Johnson,WellSky,Nursing Department,150,EA,1,150
+14-08-2021,PO0277,IT2,Scissor,Teleflex,Rivet,Paramedical Department,5,EA,34,170
+19-05-2021,PO0278,IT3,Stretcher,3M Company,FGA Inc,Surgical Department,2000,EA,12,24000
+23-11-2021,PO0279,IT4,Magnifier,Terumo,Quadax Inc,Surgical Department,8,EA,2,16
+12-09-2021,PO0280,IT5,Weighing Scale,Nipro,OmniSys,Nursing Department,20,EA,23,460
+18-08-2022,PO0281,IT6,Torch,Poly Medicure Ltd,Etactics,Nursing Department,5,EA,34,170
+29-10-2022,PO0282,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Paramedical Department,1,EA,40,40
+26-12-2021,PO0283,IT8,First Aid Kit,Advin Healthcare,CompMed,Nursing Department,10,EA,34,340
+02-10-2021,PO0284,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Surgical Department,2,EA,49,98
+06-04-2022,PO0285,IT10,Scalpel,Smiths Medical,Ability Network,Surgical Department,5,EA,1,5
+05-11-2021,PO0286,IT11,Microscope,Cardinal Health,Prevounce Health,Nursing Department,1200,EA,42,50400
+25-04-2022,PO0287,IT12,Otoscope,Becton Dickinson,Noble House,Nursing Department,150,EA,8,1200
+20-09-2021,PO0288,IT13,Thermometer,General Electric,eSolutions,Paramedical Department,35,EA,7,245
+02-07-2022,PO0289,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Outpatient Department,12,EA,11,132
+27-07-2021,PO0290,IT15,Syringe,Siemens Healthineers,Eligible Inc,Paramedical Department,35,EA,21,735
+03-04-2022,PO0291,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Surgical Department,2000,EA,12,24000
+26-03-2022,PO0292,IT17,Bandag,Teleflex,myhELO,Surgical Department,2,EA,21,42
+30-08-2022,PO0293,IT18,Crutches,3M Company,Prevounce Health,Outpatient Department,13,EA,46,598
+05-08-2022,PO0294,IT19,Plaster,Terumo,Toyon Associates Inc,Nursing Department,10,EA,43,430
+29-10-2022,PO0295,IT20,Cotton Wool,Nipro,Healthcare IP,Radiology Department,10,EA,44,440
+24-09-2022,PO0296,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Nursing Department,1,EA,37,37
+24-05-2022,PO0297,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Outpatient Department,12,EA,24,288
+20-12-2021,PO0298,IT23,Dropper,Advin Healthcare,FGA Inc,Surgical Department,1,EA,34,34
+11-02-2022,PO0299,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Radiology Department,5,EA,48,240
+19-11-2021,PO0300,IT25,Cane,Smiths Medical,OmniSys,Surgical Department,10,EA,46,460
+25-09-2021,PO0301,IT26,Surgical Clamps,Cardinal Health,Etactics,Paramedical Department,35,EA,45,1575
+08-08-2022,PO0302,IT27,Forceps,Becton Dickinson,HealthXNet,Nursing Department,15,EA,12,180
+06-12-2021,PO0303,IT28,Surgical Table,General Electric,CompMed,Surgical Department,1600,EA,46,73600
+18-05-2021,PO0304,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Nursing Department,60,EA,37,2220
+07-08-2022,PO0305,IT30,Instrument Table,Siemens Healthineers,Ability Network,Paramedical Department,60,EA,32,1920
+14-07-2022,PO0306,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Outpatient Department,3000,EA,19,57000
+29-01-2022,PO0307,IT32,Mayo Stands,Teleflex,Noble House,Nursing Department,85,EA,5,425
+10-09-2021,PO0308,IT33,Kickbuckets,3M Company,eSolutions,Nursing Department,15,EA,46,690
+22-05-2021,PO0309,IT34,Arm Supports,Terumo,Experian Health Inc,Surgical Department,5,EA,34,170
+03-12-2022,PO0310,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Paramedical Department,250,EA,39,9750
+08-08-2021,PO0311,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Nursing Department,1200,EA,38,45600
+14-08-2022,PO0312,IT37,Defibrillators,Ribbel International Ltd,myhELO,Surgical Department,1500,EA,4,6000
+21-05-2022,PO0313,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Paramedical Department,80,EA,31,2480
+15-11-2022,PO0314,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Nursing Department,165,EA,6,990
+01-03-2022,PO0315,IT40,Needle Holder,Smiths Medical,Healthcare IP,Paramedical Department,25,EA,9,225
+22-07-2022,PO0316,IT41,Medicine Cup,Cardinal Health,WellSky,Nursing Department,5,EA,20,100
+01-05-2022,PO0317,IT42,Gauze,Becton Dickinson,Rivet,Outpatient Department,7,EA,32,224
+05-06-2021,PO0318,IT43,Forceps,General Electric,FGA Inc,Paramedical Department,15,EA,16,240
+30-04-2021,PO0319,IT44,Trays,Medtronic PLC,Quadax Inc,Surgical Department,10,EA,50,500
+14-12-2022,PO0320,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Nursing Department,1,EA,6,6
+20-01-2022,PO0321,IT46,Surgical lights,Johnson & Johnson,Etactics,Surgical Department,2000,EA,22,44000
+23-11-2021,PO0322,IT47,Anesthesia machine,Teleflex,HealthXNet,Nursing Department,875,EA,47,41125
+01-01-2022,PO0323,IT48,Walkers,3M Company,CompMed,Paramedical Department,20,EA,8,160
+07-08-2021,PO0324,IT49,Tourniquet,Terumo,Ritiko LLC,Surgical Department,260,EA,28,7280
+06-04-2022,PO0325,IT50,Splints,Nipro,Ability Network,Surgical Department,12,EA,14,168
+03-01-2022,PO0326,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Surgical Department,7,EA,29,203
+27-10-2021,PO0327,IT52,ECG Machine,Ribbel International Ltd,Noble House,Surgical Department,300,EA,42,12600
+24-04-2021,PO0328,IT53,Nebulizers,Advin Healthcare,eSolutions,Nursing Department,15,EA,16,240
+16-10-2021,PO0329,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Nursing Department,12,EA,19,228
+01-04-2022,PO0330,IT55,Braces,Smiths Medical,Eligible Inc,Nursing Department,60,EA,32,1920
+31-08-2021,PO0331,IT1,Stethscope,Johnson & Johnson,WellSky,Outpatient Department,150,EA,10,1500
+16-06-2022,PO0332,IT2,Scissor,Teleflex,Rivet,Surgical Department,5,EA,50,250
+17-10-2022,PO0333,IT3,Stretcher,3M Company,FGA Inc,Nursing Department,2000,EA,15,30000
+03-10-2021,PO0334,IT4,Magnifier,Terumo,Quadax Inc,Radiology Department,8,EA,9,72
+04-04-2021,PO0335,IT5,Weighing Scale,Nipro,OmniSys,Surgical Department,20,EA,37,740
+16-10-2021,PO0336,IT6,Torch,Poly Medicure Ltd,Etactics,Outpatient Department,5,EA,1,5
+04-07-2022,PO0337,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Surgical Department,1,EA,8,8
+09-06-2021,PO0338,IT8,First Aid Kit,Advin Healthcare,CompMed,Paramedical Department,10,EA,31,310
+27-01-2022,PO0339,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Outpatient Department,2,EA,4,8
+24-04-2021,PO0340,IT10,Scalpel,Smiths Medical,Ability Network,Surgical Department,5,EA,5,25
+03-05-2021,PO0341,IT11,Microscope,Cardinal Health,Prevounce Health,Radiology Department,1200,EA,2,2400
+31-10-2021,PO0342,IT12,Otoscope,Becton Dickinson,Noble House,Surgical Department,150,EA,37,5550
+28-08-2022,PO0343,IT13,Thermometer,General Electric,eSolutions,Nursing Department,35,EA,41,1435
+07-10-2022,PO0344,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Surgical Department,12,EA,37,444
+22-11-2022,PO0345,IT15,Syringe,Siemens Healthineers,Eligible Inc,Surgical Department,35,EA,31,1085
+07-09-2021,PO0346,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Surgical Department,2000,EA,21,42000
+29-09-2022,PO0347,IT17,Bandag,Teleflex,myhELO,Nursing Department,2,EA,4,8
+29-07-2022,PO0348,IT18,Crutches,3M Company,Prevounce Health,Surgical Department,13,EA,15,195
+10-06-2022,PO0349,IT19,Plaster,Terumo,Toyon Associates Inc,Surgical Department,10,EA,20,200
+13-11-2021,PO0350,IT20,Cotton Wool,Nipro,Healthcare IP,Paramedical Department,10,EA,23,230
+09-09-2022,PO0351,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Nursing Department,1,EA,20,20
+04-04-2021,PO0352,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Surgical Department,12,EA,47,564
+16-09-2022,PO0353,IT23,Dropper,Advin Healthcare,FGA Inc,Surgical Department,1,EA,12,12
+22-09-2022,PO0354,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Surgical Department,5,EA,1,5
+09-09-2022,PO0355,IT25,Cane,Smiths Medical,OmniSys,Nursing Department,10,EA,1,10
+25-08-2021,PO0356,IT26,Surgical Clamps,Cardinal Health,Etactics,Paramedical Department,35,EA,46,1610
+04-10-2022,PO0357,IT27,Forceps,Becton Dickinson,HealthXNet,Paramedical Department,15,EA,43,645
+17-01-2022,PO0358,IT28,Surgical Table,General Electric,CompMed,Surgical Department,1600,EA,42,67200
+15-09-2021,PO0359,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Radiology Department,60,EA,25,1500
+28-10-2021,PO0360,IT30,Instrument Table,Siemens Healthineers,Ability Network,Nursing Department,60,EA,25,1500
+23-09-2021,PO0361,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Surgical Department,3000,EA,9,27000
+01-10-2021,PO0362,IT32,Mayo Stands,Teleflex,Noble House,Surgical Department,85,EA,35,2975
+24-04-2022,PO0363,IT33,Kickbuckets,3M Company,eSolutions,Paramedical Department,15,EA,45,675
+13-07-2021,PO0364,IT34,Arm Supports,Terumo,Experian Health Inc,Surgical Department,5,EA,41,205
+03-05-2021,PO0365,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Paramedical Department,250,EA,16,4000
+14-10-2022,PO0366,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Paramedical Department,1200,EA,49,58800
+28-09-2021,PO0367,IT37,Defibrillators,Ribbel International Ltd,myhELO,Paramedical Department,1500,EA,1,1500
+03-05-2021,PO0368,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Surgical Department,80,EA,33,2640
+07-04-2021,PO0369,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Surgical Department,165,EA,33,5445
+19-04-2021,PO0370,IT40,Needle Holder,Smiths Medical,Healthcare IP,Nursing Department,25,EA,24,600
+17-12-2021,PO0371,IT41,Medicine Cup,Cardinal Health,WellSky,Nursing Department,5,EA,27,135
+26-10-2021,PO0372,IT42,Gauze,Becton Dickinson,Rivet,Surgical Department,7,EA,22,154
+15-08-2021,PO0373,IT43,Forceps,General Electric,FGA Inc,Surgical Department,15,EA,28,420
+25-09-2022,PO0374,IT44,Trays,Medtronic PLC,Quadax Inc,Surgical Department,10,EA,50,500
+16-09-2021,PO0375,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Surgical Department,1,EA,47,47
+13-08-2021,PO0376,IT46,Surgical lights,Johnson & Johnson,Etactics,Nursing Department,2000,EA,46,92000
+29-09-2022,PO0377,IT47,Anesthesia machine,Teleflex,HealthXNet,Outpatient Department,875,EA,9,7875
+01-01-2022,PO0378,IT48,Walkers,3M Company,CompMed,Surgical Department,20,EA,4,80
+12-08-2022,PO0379,IT49,Tourniquet,Terumo,Ritiko LLC,Nursing Department,260,EA,18,4680
+25-02-2022,PO0380,IT50,Splints,Nipro,Ability Network,Nursing Department,12,EA,25,300
+18-04-2022,PO0381,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Paramedical Department,7,EA,33,231
+01-04-2022,PO0382,IT52,ECG Machine,Ribbel International Ltd,Noble House,Paramedical Department,300,EA,13,3900
+24-09-2021,PO0383,IT53,Nebulizers,Advin Healthcare,eSolutions,Nursing Department,15,EA,1,15
+15-10-2021,PO0384,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Paramedical Department,12,EA,44,528
+28-11-2022,PO0385,IT55,Braces,Smiths Medical,Eligible Inc,Radiology Department,60,EA,36,2160
+15-09-2022,PO0386,IT1,Stethscope,Johnson & Johnson,WellSky,Outpatient Department,150,EA,16,2400
+20-08-2022,PO0387,IT2,Scissor,Teleflex,Rivet,Outpatient Department,5,EA,34,170
+01-01-2022,PO0388,IT3,Stretcher,3M Company,FGA Inc,Surgical Department,2000,EA,20,40000
+05-05-2021,PO0389,IT4,Magnifier,Terumo,Quadax Inc,Nursing Department,8,EA,9,72
+18-12-2022,PO0390,IT5,Weighing Scale,Nipro,OmniSys,Nursing Department,20,EA,26,520
+06-08-2021,PO0391,IT6,Torch,Poly Medicure Ltd,Etactics,Nursing Department,5,EA,34,170
+24-08-2022,PO0392,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Paramedical Department,1,EA,6,6
+11-08-2021,PO0393,IT8,First Aid Kit,Advin Healthcare,CompMed,Surgical Department,10,EA,35,350
+15-07-2022,PO0394,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Radiology Department,2,EA,17,34
+25-04-2022,PO0395,IT10,Scalpel,Smiths Medical,Ability Network,Paramedical Department,5,EA,48,240
+24-05-2022,PO0396,IT11,Microscope,Cardinal Health,Prevounce Health,Paramedical Department,1200,EA,45,54000
+21-02-2022,PO0397,IT12,Otoscope,Becton Dickinson,Noble House,Paramedical Department,150,EA,18,2700
+17-11-2022,PO0398,IT13,Thermometer,General Electric,eSolutions,Paramedical Department,35,EA,45,1575
+10-01-2022,PO0399,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Nursing Department,12,EA,10,120
+01-07-2021,PO0400,IT15,Syringe,Siemens Healthineers,Eligible Inc,Paramedical Department,35,EA,19,665
+26-11-2022,PO0401,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Nursing Department,2000,EA,44,88000
+04-10-2022,PO0402,IT17,Bandag,Teleflex,myhELO,Nursing Department,2,EA,42,84
+17-05-2022,PO0403,IT18,Crutches,3M Company,Prevounce Health,Nursing Department,13,EA,23,299
+06-09-2022,PO0404,IT19,Plaster,Terumo,Toyon Associates Inc,Surgical Department,10,EA,18,180
+28-09-2021,PO0405,IT20,Cotton Wool,Nipro,Healthcare IP,Surgical Department,10,EA,30,300
+11-09-2022,PO0406,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Outpatient Department,1,EA,49,49
+26-09-2022,PO0407,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Surgical Department,12,EA,23,276
+01-09-2022,PO0408,IT23,Dropper,Advin Healthcare,FGA Inc,Surgical Department,1,EA,3,3
+25-03-2022,PO0409,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Surgical Department,5,EA,1,5
+14-02-2022,PO0410,IT25,Cane,Smiths Medical,OmniSys,Paramedical Department,10,EA,9,90
+02-10-2021,PO0411,IT26,Surgical Clamps,Cardinal Health,Etactics,Nursing Department,35,EA,6,210
+27-02-2022,PO0412,IT27,Forceps,Becton Dickinson,HealthXNet,Outpatient Department,15,EA,15,225
+08-10-2022,PO0413,IT28,Surgical Table,General Electric,CompMed,Radiology Department,1600,EA,30,48000
+17-03-2022,PO0414,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Paramedical Department,60,EA,19,1140
+17-10-2022,PO0415,IT30,Instrument Table,Siemens Healthineers,Ability Network,Surgical Department,60,EA,39,2340
+18-07-2021,PO0416,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Nursing Department,3000,EA,18,54000
+19-09-2021,PO0417,IT32,Mayo Stands,Teleflex,Noble House,Surgical Department,85,EA,22,1870
+14-07-2021,PO0418,IT33,Kickbuckets,3M Company,eSolutions,Paramedical Department,15,EA,4,60
+03-01-2022,PO0419,IT34,Arm Supports,Terumo,Experian Health Inc,Surgical Department,5,EA,49,245
+14-03-2022,PO0420,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Paramedical Department,250,EA,30,7500
+04-09-2021,PO0421,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Paramedical Department,1200,EA,43,51600
+13-05-2021,PO0422,IT37,Defibrillators,Ribbel International Ltd,myhELO,Paramedical Department,1500,EA,18,27000
+25-08-2021,PO0423,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Surgical Department,80,EA,40,3200
+18-08-2022,PO0424,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Nursing Department,165,EA,14,2310
+20-05-2022,PO0425,IT40,Needle Holder,Smiths Medical,Healthcare IP,Paramedical Department,25,EA,22,550
+01-05-2022,PO0426,IT41,Medicine Cup,Cardinal Health,WellSky,Nursing Department,5,EA,9,45
+23-09-2021,PO0427,IT42,Gauze,Becton Dickinson,Rivet,Surgical Department,7,EA,47,329
+24-04-2022,PO0428,IT43,Forceps,General Electric,FGA Inc,Surgical Department,15,EA,9,135
+25-12-2021,PO0429,IT44,Trays,Medtronic PLC,Quadax Inc,Outpatient Department,10,EA,25,250
+05-08-2021,PO0430,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Surgical Department,1,EA,21,21
+06-05-2021,PO0431,IT46,Surgical lights,Johnson & Johnson,Etactics,Surgical Department,2000,EA,14,28000
+10-07-2021,PO0432,IT47,Anesthesia machine,Teleflex,HealthXNet,Nursing Department,875,EA,8,7000
+13-09-2021,PO0433,IT48,Walkers,3M Company,CompMed,Outpatient Department,20,EA,24,480
+30-12-2022,PO0434,IT49,Tourniquet,Terumo,Ritiko LLC,Nursing Department,260,EA,10,2600
+03-10-2022,PO0435,IT50,Splints,Nipro,Ability Network,Paramedical Department,12,EA,3,36
+29-09-2022,PO0436,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Surgical Department,7,EA,41,287
+03-11-2022,PO0437,IT52,ECG Machine,Ribbel International Ltd,Noble House,Nursing Department,300,EA,50,15000
+29-09-2022,PO0438,IT53,Nebulizers,Advin Healthcare,eSolutions,Surgical Department,15,EA,39,585
+27-04-2021,PO0439,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Outpatient Department,12,EA,23,276
+18-09-2021,PO0440,IT55,Braces,Smiths Medical,Eligible Inc,Nursing Department,60,EA,17,1020
+13-12-2022,PO0441,IT1,Stethscope,Johnson & Johnson,WellSky,Nursing Department,150,EA,5,750
+26-10-2022,PO0442,IT2,Scissor,Teleflex,Rivet,Paramedical Department,5,EA,4,20
+15-09-2021,PO0443,IT3,Stretcher,3M Company,FGA Inc,Paramedical Department,2000,EA,42,84000
+30-06-2021,PO0444,IT4,Magnifier,Terumo,Quadax Inc,Surgical Department,8,EA,5,40
+01-11-2022,PO0445,IT5,Weighing Scale,Nipro,OmniSys,Nursing Department,20,EA,10,200
+14-12-2022,PO0446,IT6,Torch,Poly Medicure Ltd,Etactics,Paramedical Department,5,EA,22,110
+10-01-2022,PO0447,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Nursing Department,1,EA,28,28
+08-07-2022,PO0448,IT8,First Aid Kit,Advin Healthcare,CompMed,Radiology Department,10,EA,5,50
+14-08-2021,PO0449,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Outpatient Department,2,EA,4,8
+17-09-2022,PO0450,IT10,Scalpel,Smiths Medical,Ability Network,Outpatient Department,5,EA,8,40
+19-04-2022,PO0451,IT11,Microscope,Cardinal Health,Prevounce Health,Surgical Department,1200,EA,24,28800
+12-04-2022,PO0452,IT12,Otoscope,Becton Dickinson,Noble House,Radiology Department,150,EA,16,2400
+13-01-2022,PO0453,IT13,Thermometer,General Electric,eSolutions,Nursing Department,35,EA,11,385
+18-09-2022,PO0454,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Paramedical Department,12,EA,27,324
+01-11-2021,PO0455,IT15,Syringe,Siemens Healthineers,Eligible Inc,Nursing Department,35,EA,44,1540
+30-08-2021,PO0456,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Surgical Department,2000,EA,30,60000
+23-05-2021,PO0457,IT17,Bandag,Teleflex,myhELO,Nursing Department,2,EA,48,96
+25-07-2022,PO0458,IT18,Crutches,3M Company,Prevounce Health,Outpatient Department,13,EA,21,273
+13-06-2022,PO0459,IT19,Plaster,Terumo,Toyon Associates Inc,Surgical Department,10,EA,18,180
+24-05-2022,PO0460,IT20,Cotton Wool,Nipro,Healthcare IP,Surgical Department,10,EA,8,80
+28-04-2021,PO0461,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Surgical Department,1,EA,2,2
+01-05-2022,PO0462,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Nursing Department,12,EA,4,48
+12-08-2022,PO0463,IT23,Dropper,Advin Healthcare,FGA Inc,Radiology Department,1,EA,26,26
+11-05-2021,PO0464,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Paramedical Department,5,EA,38,190
+25-05-2022,PO0465,IT25,Cane,Smiths Medical,OmniSys,Nursing Department,10,EA,2,20
+14-06-2022,PO0466,IT26,Surgical Clamps,Cardinal Health,Etactics,Radiology Department,35,EA,33,1155
+23-06-2022,PO0467,IT27,Forceps,Becton Dickinson,HealthXNet,Surgical Department,15,EA,19,285
+17-11-2021,PO0468,IT28,Surgical Table,General Electric,CompMed,Surgical Department,1600,EA,45,72000
+06-03-2022,PO0469,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Surgical Department,60,EA,23,1380
+03-12-2021,PO0470,IT30,Instrument Table,Siemens Healthineers,Ability Network,Nursing Department,60,EA,42,2520
+03-11-2022,PO0471,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Paramedical Department,3000,EA,33,99000
+25-10-2022,PO0472,IT32,Mayo Stands,Teleflex,Noble House,Surgical Department,85,EA,18,1530
+08-04-2022,PO0473,IT33,Kickbuckets,3M Company,eSolutions,Surgical Department,15,EA,8,120
+08-08-2022,PO0474,IT34,Arm Supports,Terumo,Experian Health Inc,Nursing Department,5,EA,17,85
+15-09-2022,PO0475,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Surgical Department,250,EA,32,8000
+27-04-2021,PO0476,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Surgical Department,1200,EA,19,22800
+04-05-2022,PO0477,IT37,Defibrillators,Ribbel International Ltd,myhELO,Nursing Department,1500,EA,9,13500
+06-04-2022,PO0478,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Nursing Department,80,EA,22,1760
+20-12-2022,PO0479,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Outpatient Department,165,EA,29,4785
+22-09-2021,PO0480,IT40,Needle Holder,Smiths Medical,Healthcare IP,Nursing Department,25,EA,10,250
+15-09-2021,PO0481,IT41,Medicine Cup,Cardinal Health,WellSky,Surgical Department,5,EA,15,75
+25-07-2021,PO0482,IT42,Gauze,Becton Dickinson,Rivet,Nursing Department,7,EA,44,308
+07-07-2022,PO0483,IT43,Forceps,General Electric,FGA Inc,Paramedical Department,15,EA,2,30
+22-03-2022,PO0484,IT44,Trays,Medtronic PLC,Quadax Inc,Nursing Department,10,EA,23,230
+12-09-2021,PO0485,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Radiology Department,1,EA,34,34
+20-02-2022,PO0486,IT46,Surgical lights,Johnson & Johnson,Etactics,Outpatient Department,2000,EA,6,12000
+26-06-2021,PO0487,IT47,Anesthesia machine,Teleflex,HealthXNet,Paramedical Department,875,EA,8,7000
+08-11-2022,PO0488,IT48,Walkers,3M Company,CompMed,Nursing Department,20,EA,36,720
+10-05-2022,PO0489,IT49,Tourniquet,Terumo,Ritiko LLC,Surgical Department,260,EA,47,12220
+26-04-2022,PO0490,IT50,Splints,Nipro,Ability Network,Radiology Department,12,EA,12,144
+14-08-2021,PO0491,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Surgical Department,7,EA,46,322
+24-03-2022,PO0492,IT52,ECG Machine,Ribbel International Ltd,Noble House,Surgical Department,300,EA,26,7800
+20-01-2022,PO0493,IT53,Nebulizers,Advin Healthcare,eSolutions,Paramedical Department,15,EA,34,510
+07-11-2022,PO0494,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Surgical Department,12,EA,33,396
+03-09-2022,PO0495,IT55,Braces,Smiths Medical,Eligible Inc,Outpatient Department,60,EA,24,1440
+08-10-2022,PO0496,IT1,Stethscope,Johnson & Johnson,WellSky,Paramedical Department,150,EA,11,1650
+12-03-2022,PO0497,IT2,Scissor,Teleflex,Rivet,Nursing Department,5,EA,3,15
+21-05-2021,PO0498,IT3,Stretcher,3M Company,FGA Inc,Nursing Department,2000,EA,23,46000
+04-07-2022,PO0499,IT4,Magnifier,Terumo,Quadax Inc,Nursing Department,8,EA,4,32
+11-12-2022,PO0500,IT5,Weighing Scale,Nipro,OmniSys,Surgical Department,20,EA,22,440
+11-11-2021,PO0501,IT6,Torch,Poly Medicure Ltd,Etactics,Nursing Department,5,EA,3,15
+03-03-2022,PO0502,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Nursing Department,1,EA,45,45
+16-08-2021,PO0503,IT8,First Aid Kit,Advin Healthcare,CompMed,Surgical Department,10,EA,8,80
+17-03-2022,PO0504,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Paramedical Department,2,EA,13,26
+29-06-2022,PO0505,IT10,Scalpel,Smiths Medical,Ability Network,Nursing Department,5,EA,6,30
+03-02-2022,PO0506,IT11,Microscope,Cardinal Health,Prevounce Health,Outpatient Department,1200,EA,27,32400
+21-05-2022,PO0507,IT12,Otoscope,Becton Dickinson,Noble House,Surgical Department,150,EA,50,7500
+02-11-2021,PO0508,IT13,Thermometer,General Electric,eSolutions,Paramedical Department,35,EA,50,1750
+30-04-2022,PO0509,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Nursing Department,12,EA,41,492
+08-12-2022,PO0510,IT15,Syringe,Siemens Healthineers,Eligible Inc,Radiology Department,35,EA,29,1015
+24-07-2022,PO0511,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Outpatient Department,2000,EA,22,44000
+01-02-2022,PO0512,IT17,Bandag,Teleflex,myhELO,Surgical Department,2,EA,31,62
+08-09-2022,PO0513,IT18,Crutches,3M Company,Prevounce Health,Paramedical Department,13,EA,22,286
+09-02-2022,PO0514,IT19,Plaster,Terumo,Toyon Associates Inc,Radiology Department,10,EA,50,500
+07-12-2021,PO0515,IT20,Cotton Wool,Nipro,Healthcare IP,Surgical Department,10,EA,27,270
+16-11-2022,PO0516,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Surgical Department,1,EA,5,5
+01-05-2021,PO0517,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Paramedical Department,12,EA,47,564
+28-03-2022,PO0518,IT23,Dropper,Advin Healthcare,FGA Inc,Radiology Department,1,EA,43,43
+27-08-2021,PO0519,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Nursing Department,5,EA,30,150
+24-06-2022,PO0520,IT25,Cane,Smiths Medical,OmniSys,Surgical Department,10,EA,15,150
+26-04-2022,PO0521,IT26,Surgical Clamps,Cardinal Health,Etactics,Surgical Department,35,EA,50,1750
+14-07-2022,PO0522,IT27,Forceps,Becton Dickinson,HealthXNet,Nursing Department,15,EA,9,135
+14-03-2022,PO0523,IT28,Surgical Table,General Electric,CompMed,Surgical Department,1600,EA,35,56000
+03-12-2022,PO0524,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Nursing Department,60,EA,5,300
+03-10-2022,PO0525,IT30,Instrument Table,Siemens Healthineers,Ability Network,Outpatient Department,60,EA,31,1860
+04-11-2021,PO0526,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Surgical Department,3000,EA,14,42000
+15-04-2021,PO0527,IT32,Mayo Stands,Teleflex,Noble House,Surgical Department,85,EA,30,2550
+17-12-2021,PO0528,IT33,Kickbuckets,3M Company,eSolutions,Nursing Department,15,EA,46,690
+18-05-2022,PO0529,IT34,Arm Supports,Terumo,Experian Health Inc,Surgical Department,5,EA,16,80
+26-12-2022,PO0530,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Surgical Department,250,EA,26,6500
+29-09-2021,PO0531,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Paramedical Department,1200,EA,5,6000
+25-09-2022,PO0532,IT37,Defibrillators,Ribbel International Ltd,myhELO,Outpatient Department,1500,EA,45,67500
+08-12-2022,PO0533,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Nursing Department,80,EA,44,3520
+29-05-2022,PO0534,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Surgical Department,165,EA,5,825
+03-01-2022,PO0535,IT40,Needle Holder,Smiths Medical,Healthcare IP,Nursing Department,25,EA,43,1075
+24-06-2021,PO0536,IT41,Medicine Cup,Cardinal Health,WellSky,Radiology Department,5,EA,33,165
+09-08-2021,PO0537,IT42,Gauze,Becton Dickinson,Rivet,Nursing Department,7,EA,47,329
+06-03-2022,PO0538,IT43,Forceps,General Electric,FGA Inc,Surgical Department,15,EA,6,90
+26-12-2022,PO0539,IT44,Trays,Medtronic PLC,Quadax Inc,Nursing Department,10,EA,18,180
+29-06-2022,PO0540,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Outpatient Department,1,EA,15,15
+17-01-2022,PO0541,IT46,Surgical lights,Johnson & Johnson,Etactics,Nursing Department,2000,EA,24,48000
+02-12-2021,PO0542,IT47,Anesthesia machine,Teleflex,HealthXNet,Surgical Department,875,EA,22,19250
+01-12-2021,PO0543,IT48,Walkers,3M Company,CompMed,Outpatient Department,20,EA,10,200
+18-10-2022,PO0544,IT49,Tourniquet,Terumo,Ritiko LLC,Paramedical Department,260,EA,2,520
+23-01-2022,PO0545,IT50,Splints,Nipro,Ability Network,Nursing Department,12,EA,45,540
+12-01-2022,PO0546,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Surgical Department,7,EA,8,56
+30-01-2022,PO0547,IT52,ECG Machine,Ribbel International Ltd,Noble House,Nursing Department,300,EA,33,9900
+03-06-2022,PO0548,IT53,Nebulizers,Advin Healthcare,eSolutions,Nursing Department,15,EA,43,645
+11-10-2021,PO0549,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Surgical Department,12,EA,31,372
+11-10-2022,PO0550,IT55,Braces,Smiths Medical,Eligible Inc,Nursing Department,60,EA,3,180
+15-12-2021,PO0551,IT1,Stethscope,Johnson & Johnson,WellSky,Paramedical Department,150,EA,30,4500
+19-07-2022,PO0552,IT2,Scissor,Teleflex,Rivet,Nursing Department,5,EA,28,140
+09-12-2022,PO0553,IT3,Stretcher,3M Company,FGA Inc,Nursing Department,2000,EA,47,94000
+30-05-2021,PO0554,IT4,Magnifier,Terumo,Quadax Inc,Outpatient Department,8,EA,6,48
+04-07-2021,PO0555,IT5,Weighing Scale,Nipro,OmniSys,Surgical Department,20,EA,26,520
+19-06-2022,PO0556,IT6,Torch,Poly Medicure Ltd,Etactics,Radiology Department,5,EA,34,170
+12-05-2021,PO0557,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Outpatient Department,1,EA,18,18
+05-06-2021,PO0558,IT8,First Aid Kit,Advin Healthcare,CompMed,Paramedical Department,10,EA,28,280
+17-07-2021,PO0559,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Radiology Department,2,EA,36,72
+21-12-2021,PO0560,IT10,Scalpel,Smiths Medical,Ability Network,Nursing Department,5,EA,49,245
+27-08-2022,PO0561,IT11,Microscope,Cardinal Health,Prevounce Health,Nursing Department,1200,EA,38,45600
+22-09-2022,PO0562,IT12,Otoscope,Becton Dickinson,Noble House,Nursing Department,150,EA,12,1800
+08-02-2022,PO0563,IT13,Thermometer,General Electric,eSolutions,Nursing Department,35,EA,11,385
+07-10-2021,PO0564,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Nursing Department,12,EA,47,564
+28-06-2022,PO0565,IT15,Syringe,Siemens Healthineers,Eligible Inc,Nursing Department,35,EA,27,945
+09-11-2021,PO0566,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Surgical Department,2000,EA,32,64000
+12-07-2022,PO0567,IT17,Bandag,Teleflex,myhELO,Outpatient Department,2,EA,49,98
+22-06-2021,PO0568,IT18,Crutches,3M Company,Prevounce Health,Outpatient Department,13,EA,43,559
+26-05-2022,PO0569,IT19,Plaster,Terumo,Toyon Associates Inc,Paramedical Department,10,EA,1,10
+05-12-2021,PO0570,IT20,Cotton Wool,Nipro,Healthcare IP,Surgical Department,10,EA,5,50
+31-08-2021,PO0571,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Paramedical Department,1,EA,9,9
+21-11-2022,PO0572,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Paramedical Department,12,EA,11,132
+27-09-2022,PO0573,IT23,Dropper,Advin Healthcare,FGA Inc,Radiology Department,1,EA,10,10
+16-09-2022,PO0574,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Outpatient Department,5,EA,42,210
+29-09-2021,PO0575,IT25,Cane,Smiths Medical,OmniSys,Surgical Department,10,EA,39,390
+02-02-2022,PO0576,IT26,Surgical Clamps,Cardinal Health,Etactics,Nursing Department,35,EA,49,1715
+26-09-2021,PO0577,IT27,Forceps,Becton Dickinson,HealthXNet,Radiology Department,15,EA,15,225
+01-07-2021,PO0578,IT28,Surgical Table,General Electric,CompMed,Paramedical Department,1600,EA,10,16000
+30-11-2021,PO0579,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Paramedical Department,60,EA,26,1560
+20-05-2022,PO0580,IT30,Instrument Table,Siemens Healthineers,Ability Network,Paramedical Department,60,EA,6,360
+22-03-2022,PO0581,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Surgical Department,3000,EA,11,33000
+08-07-2021,PO0582,IT32,Mayo Stands,Teleflex,Noble House,Radiology Department,85,EA,36,3060
+15-07-2021,PO0583,IT33,Kickbuckets,3M Company,eSolutions,Paramedical Department,15,EA,28,420
+18-04-2021,PO0584,IT34,Arm Supports,Terumo,Experian Health Inc,Nursing Department,5,EA,49,245
+05-04-2022,PO0585,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Nursing Department,250,EA,32,8000
+18-07-2022,PO0586,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Outpatient Department,1200,EA,22,26400
+22-07-2022,PO0587,IT37,Defibrillators,Ribbel International Ltd,myhELO,Outpatient Department,1500,EA,13,19500
+04-07-2022,PO0588,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Nursing Department,80,EA,6,480
+16-12-2022,PO0589,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Surgical Department,165,EA,45,7425
+30-07-2021,PO0590,IT40,Needle Holder,Smiths Medical,Healthcare IP,Surgical Department,25,EA,49,1225
+21-05-2022,PO0591,IT41,Medicine Cup,Cardinal Health,WellSky,Nursing Department,5,EA,43,215
+20-04-2022,PO0592,IT42,Gauze,Becton Dickinson,Rivet,Paramedical Department,7,EA,45,315
+01-02-2022,PO0593,IT43,Forceps,General Electric,FGA Inc,Surgical Department,15,EA,38,570
+07-01-2022,PO0594,IT44,Trays,Medtronic PLC,Quadax Inc,Surgical Department,10,EA,9,90
+27-08-2021,PO0595,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Radiology Department,1,EA,16,16
+25-09-2022,PO0596,IT46,Surgical lights,Johnson & Johnson,Etactics,Surgical Department,2000,EA,32,64000
+15-03-2022,PO0597,IT47,Anesthesia machine,Teleflex,HealthXNet,Surgical Department,875,EA,18,15750
+20-07-2022,PO0598,IT48,Walkers,3M Company,CompMed,Surgical Department,20,EA,27,540
+02-11-2022,PO0599,IT49,Tourniquet,Terumo,Ritiko LLC,Surgical Department,260,EA,8,2080
+03-09-2022,PO0600,IT50,Splints,Nipro,Ability Network,Paramedical Department,12,EA,50,600
+24-09-2022,PO0601,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Surgical Department,7,EA,37,259
+20-10-2022,PO0602,IT52,ECG Machine,Ribbel International Ltd,Noble House,Paramedical Department,300,EA,6,1800
+29-01-2022,PO0603,IT53,Nebulizers,Advin Healthcare,eSolutions,Nursing Department,15,EA,14,210
+19-10-2021,PO0604,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Paramedical Department,12,EA,40,480
+13-07-2021,PO0605,IT55,Braces,Smiths Medical,Eligible Inc,Radiology Department,60,EA,27,1620
+18-05-2022,PO0606,IT1,Stethscope,Johnson & Johnson,WellSky,Radiology Department,150,EA,7,1050
+19-11-2022,PO0607,IT2,Scissor,Teleflex,Rivet,Outpatient Department,5,EA,4,20
+19-07-2021,PO0608,IT3,Stretcher,3M Company,FGA Inc,Surgical Department,2000,EA,35,70000
+30-08-2021,PO0609,IT4,Magnifier,Terumo,Quadax Inc,Paramedical Department,8,EA,31,248
+04-07-2021,PO0610,IT5,Weighing Scale,Nipro,OmniSys,Surgical Department,20,EA,20,400
+28-12-2021,PO0611,IT6,Torch,Poly Medicure Ltd,Etactics,Paramedical Department,5,EA,29,145
+05-04-2022,PO0612,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Nursing Department,1,EA,22,22
+06-09-2021,PO0613,IT8,First Aid Kit,Advin Healthcare,CompMed,Nursing Department,10,EA,15,150
+18-05-2021,PO0614,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Nursing Department,2,EA,42,84
+19-01-2022,PO0615,IT10,Scalpel,Smiths Medical,Ability Network,Paramedical Department,5,EA,42,210
+30-08-2021,PO0616,IT11,Microscope,Cardinal Health,Prevounce Health,Paramedical Department,1200,EA,45,54000
+14-12-2021,PO0617,IT12,Otoscope,Becton Dickinson,Noble House,Paramedical Department,150,EA,8,1200
+18-07-2021,PO0618,IT13,Thermometer,General Electric,eSolutions,Nursing Department,35,EA,25,875
+03-10-2021,PO0619,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Nursing Department,12,EA,35,420
+11-03-2022,PO0620,IT15,Syringe,Siemens Healthineers,Eligible Inc,Paramedical Department,35,EA,38,1330
+07-08-2021,PO0621,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Paramedical Department,2000,EA,26,52000
+19-01-2022,PO0622,IT17,Bandag,Teleflex,myhELO,Surgical Department,2,EA,18,36
+07-07-2021,PO0623,IT18,Crutches,3M Company,Prevounce Health,Paramedical Department,13,EA,6,78
+15-02-2022,PO0624,IT19,Plaster,Terumo,Toyon Associates Inc,Nursing Department,10,EA,38,380
+28-06-2021,PO0625,IT20,Cotton Wool,Nipro,Healthcare IP,Surgical Department,10,EA,22,220
+09-07-2021,PO0626,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Surgical Department,1,EA,45,45
+05-03-2022,PO0627,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Nursing Department,12,EA,16,192
+24-08-2022,PO0628,IT23,Dropper,Advin Healthcare,FGA Inc,Paramedical Department,1,EA,38,38
+09-12-2021,PO0629,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Paramedical Department,5,EA,15,75
+25-06-2022,PO0630,IT25,Cane,Smiths Medical,OmniSys,Paramedical Department,10,EA,32,320
+21-04-2022,PO0631,IT26,Surgical Clamps,Cardinal Health,Etactics,Nursing Department,35,EA,26,910
+30-06-2022,PO0632,IT27,Forceps,Becton Dickinson,HealthXNet,Outpatient Department,15,EA,4,60
+27-05-2021,PO0633,IT28,Surgical Table,General Electric,CompMed,Nursing Department,1600,EA,34,54400
+19-01-2022,PO0634,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Nursing Department,60,EA,35,2100
+27-11-2022,PO0635,IT30,Instrument Table,Siemens Healthineers,Ability Network,Paramedical Department,60,EA,23,1380
+13-03-2022,PO0636,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Paramedical Department,3000,EA,40,120000
+20-10-2021,PO0637,IT32,Mayo Stands,Teleflex,Noble House,Surgical Department,85,EA,1,85
+20-02-2022,PO0638,IT33,Kickbuckets,3M Company,eSolutions,Nursing Department,15,EA,17,255
+13-06-2021,PO0639,IT34,Arm Supports,Terumo,Experian Health Inc,Nursing Department,5,EA,46,230
+23-12-2022,PO0640,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Nursing Department,250,EA,47,11750
+01-06-2021,PO0641,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Paramedical Department,1200,EA,34,40800
+18-12-2021,PO0642,IT37,Defibrillators,Ribbel International Ltd,myhELO,Surgical Department,1500,EA,29,43500
+09-11-2021,PO0643,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Nursing Department,80,EA,27,2160
+03-10-2022,PO0644,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Radiology Department,165,EA,23,3795
+24-04-2022,PO0645,IT40,Needle Holder,Smiths Medical,Healthcare IP,Surgical Department,25,EA,26,650
+02-04-2022,PO0646,IT41,Medicine Cup,Cardinal Health,WellSky,Nursing Department,5,EA,27,135
+27-04-2021,PO0647,IT42,Gauze,Becton Dickinson,Rivet,Nursing Department,7,EA,3,21
+12-11-2021,PO0648,IT43,Forceps,General Electric,FGA Inc,Paramedical Department,15,EA,14,210
+18-10-2021,PO0649,IT44,Trays,Medtronic PLC,Quadax Inc,Paramedical Department,10,EA,13,130
+23-12-2022,PO0650,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Surgical Department,1,EA,32,32
+19-07-2022,PO0651,IT46,Surgical lights,Johnson & Johnson,Etactics,Surgical Department,2000,EA,17,34000
+09-07-2021,PO0652,IT47,Anesthesia machine,Teleflex,HealthXNet,Paramedical Department,875,EA,14,12250
+15-12-2021,PO0653,IT48,Walkers,3M Company,CompMed,Radiology Department,20,EA,49,980
+13-06-2022,PO0654,IT49,Tourniquet,Terumo,Ritiko LLC,Surgical Department,260,EA,43,11180
+05-09-2021,PO0655,IT50,Splints,Nipro,Ability Network,Radiology Department,12,EA,6,72
+12-05-2021,PO0656,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Nursing Department,7,EA,12,84
+05-10-2022,PO0657,IT52,ECG Machine,Ribbel International Ltd,Noble House,Paramedical Department,300,EA,4,1200
+16-06-2022,PO0658,IT53,Nebulizers,Advin Healthcare,eSolutions,Surgical Department,15,EA,15,225
+28-06-2021,PO0659,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Radiology Department,12,EA,1,12
+17-01-2022,PO0660,IT55,Braces,Smiths Medical,Eligible Inc,Outpatient Department,60,EA,24,1440
+14-12-2022,PO0661,IT1,Stethscope,Johnson & Johnson,WellSky,Paramedical Department,150,EA,13,1950
+12-11-2022,PO0662,IT2,Scissor,Teleflex,Rivet,Outpatient Department,5,EA,47,235
+24-06-2021,PO0663,IT3,Stretcher,3M Company,FGA Inc,Nursing Department,2000,EA,27,54000
+10-10-2021,PO0664,IT4,Magnifier,Terumo,Quadax Inc,Paramedical Department,8,EA,29,232
+10-12-2021,PO0665,IT5,Weighing Scale,Nipro,OmniSys,Nursing Department,20,EA,23,460
+09-09-2021,PO0666,IT6,Torch,Poly Medicure Ltd,Etactics,Outpatient Department,5,EA,41,205
+13-07-2022,PO0667,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Surgical Department,1,EA,31,31
+11-06-2021,PO0668,IT8,First Aid Kit,Advin Healthcare,CompMed,Nursing Department,10,EA,38,380
+20-07-2021,PO0669,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Nursing Department,2,EA,39,78
+08-01-2022,PO0670,IT10,Scalpel,Smiths Medical,Ability Network,Outpatient Department,5,EA,6,30
+07-12-2022,PO0671,IT11,Microscope,Cardinal Health,Prevounce Health,Surgical Department,1200,EA,4,4800
+04-02-2022,PO0672,IT12,Otoscope,Becton Dickinson,Noble House,Paramedical Department,150,EA,4,600
+24-02-2022,PO0673,IT13,Thermometer,General Electric,eSolutions,Nursing Department,35,EA,17,595
+14-12-2022,PO0674,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Nursing Department,12,EA,17,204
+07-10-2022,PO0675,IT15,Syringe,Siemens Healthineers,Eligible Inc,Surgical Department,35,EA,31,1085
+26-07-2021,PO0676,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Outpatient Department,2000,EA,21,42000
+10-09-2022,PO0677,IT17,Bandag,Teleflex,myhELO,Outpatient Department,2,EA,26,52
+24-07-2021,PO0678,IT18,Crutches,3M Company,Prevounce Health,Surgical Department,13,EA,24,312
+15-01-2022,PO0679,IT19,Plaster,Terumo,Toyon Associates Inc,Nursing Department,10,EA,7,70
+21-10-2021,PO0680,IT20,Cotton Wool,Nipro,Healthcare IP,Nursing Department,10,EA,7,70
+05-12-2021,PO0681,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Nursing Department,1,EA,38,38
+13-02-2022,PO0682,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Surgical Department,12,EA,17,204
+19-03-2022,PO0683,IT23,Dropper,Advin Healthcare,FGA Inc,Nursing Department,1,EA,19,19
+04-07-2021,PO0684,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Surgical Department,5,EA,34,170
+23-11-2021,PO0685,IT25,Cane,Smiths Medical,OmniSys,Surgical Department,10,EA,34,340
+06-09-2021,PO0686,IT26,Surgical Clamps,Cardinal Health,Etactics,Radiology Department,35,EA,6,210
+20-04-2022,PO0687,IT27,Forceps,Becton Dickinson,HealthXNet,Surgical Department,15,EA,50,750
+09-08-2021,PO0688,IT28,Surgical Table,General Electric,CompMed,Outpatient Department,1600,EA,48,76800
+12-10-2022,PO0689,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Paramedical Department,60,EA,8,480
+12-09-2021,PO0690,IT30,Instrument Table,Siemens Healthineers,Ability Network,Paramedical Department,60,EA,14,840
+19-12-2022,PO0691,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Paramedical Department,3000,EA,35,105000
+30-12-2022,PO0692,IT32,Mayo Stands,Teleflex,Noble House,Surgical Department,85,EA,13,1105
+05-04-2021,PO0693,IT33,Kickbuckets,3M Company,eSolutions,Outpatient Department,15,EA,29,435
+25-07-2022,PO0694,IT34,Arm Supports,Terumo,Experian Health Inc,Nursing Department,5,EA,17,85
+27-03-2022,PO0695,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Paramedical Department,250,EA,46,11500
+27-04-2021,PO0696,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Paramedical Department,1200,EA,11,13200
+06-03-2022,PO0697,IT37,Defibrillators,Ribbel International Ltd,myhELO,Nursing Department,1500,EA,21,31500
+18-11-2022,PO0698,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Nursing Department,80,EA,33,2640
+17-01-2022,PO0699,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Outpatient Department,165,EA,14,2310
+08-04-2021,PO0700,IT40,Needle Holder,Smiths Medical,Healthcare IP,Paramedical Department,25,EA,36,900
+31-03-2022,PO0701,IT41,Medicine Cup,Cardinal Health,WellSky,Paramedical Department,5,EA,20,100
+02-12-2022,PO0702,IT42,Gauze,Becton Dickinson,Rivet,Nursing Department,7,EA,21,147
+20-12-2022,PO0703,IT43,Forceps,General Electric,FGA Inc,Radiology Department,15,EA,47,705
+20-11-2021,PO0704,IT44,Trays,Medtronic PLC,Quadax Inc,Surgical Department,10,EA,28,280
+06-06-2021,PO0705,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Paramedical Department,1,EA,39,39
+26-11-2021,PO0706,IT46,Surgical lights,Johnson & Johnson,Etactics,Surgical Department,2000,EA,38,76000
+12-08-2022,PO0707,IT47,Anesthesia machine,Teleflex,HealthXNet,Nursing Department,875,EA,16,14000
+18-12-2022,PO0708,IT48,Walkers,3M Company,CompMed,Outpatient Department,20,EA,33,660
+03-04-2022,PO0709,IT49,Tourniquet,Terumo,Ritiko LLC,Surgical Department,260,EA,20,5200
+10-04-2022,PO0710,IT50,Splints,Nipro,Ability Network,Surgical Department,12,EA,48,576
+21-10-2022,PO0711,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Radiology Department,7,EA,9,63
+13-02-2022,PO0712,IT52,ECG Machine,Ribbel International Ltd,Noble House,Surgical Department,300,EA,19,5700
+16-11-2021,PO0713,IT53,Nebulizers,Advin Healthcare,eSolutions,Surgical Department,15,EA,36,540
+01-11-2022,PO0714,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Radiology Department,12,EA,39,468
+23-05-2022,PO0715,IT55,Braces,Smiths Medical,Eligible Inc,Nursing Department,60,EA,17,1020
+25-10-2022,PO0716,IT1,Stethscope,Johnson & Johnson,WellSky,Surgical Department,150,EA,20,3000
+30-07-2021,PO0717,IT2,Scissor,Teleflex,Rivet,Surgical Department,5,EA,24,120
+07-05-2022,PO0718,IT3,Stretcher,3M Company,FGA Inc,Surgical Department,2000,EA,5,10000
+18-11-2022,PO0719,IT4,Magnifier,Terumo,Quadax Inc,Paramedical Department,8,EA,4,32
+14-11-2021,PO0720,IT5,Weighing Scale,Nipro,OmniSys,Radiology Department,20,EA,13,260
+05-09-2022,PO0721,IT6,Torch,Poly Medicure Ltd,Etactics,Outpatient Department,5,EA,44,220
+13-11-2021,PO0722,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Surgical Department,1,EA,43,43
+11-07-2021,PO0723,IT8,First Aid Kit,Advin Healthcare,CompMed,Nursing Department,10,EA,34,340
+22-01-2022,PO0724,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Surgical Department,2,EA,45,90
+14-06-2022,PO0725,IT10,Scalpel,Smiths Medical,Ability Network,Nursing Department,5,EA,28,140
+03-06-2021,PO0726,IT11,Microscope,Cardinal Health,Prevounce Health,Nursing Department,1200,EA,31,37200
+20-06-2021,PO0727,IT12,Otoscope,Becton Dickinson,Noble House,Outpatient Department,150,EA,14,2100
+11-06-2022,PO0728,IT13,Thermometer,General Electric,eSolutions,Surgical Department,35,EA,29,1015
+03-11-2022,PO0729,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Outpatient Department,12,EA,18,216
+28-02-2022,PO0730,IT15,Syringe,Siemens Healthineers,Eligible Inc,Nursing Department,35,EA,17,595
+01-02-2022,PO0731,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Surgical Department,2000,EA,1,2000
+29-09-2021,PO0732,IT17,Bandag,Teleflex,myhELO,Nursing Department,2,EA,21,42
+04-12-2022,PO0733,IT18,Crutches,3M Company,Prevounce Health,Surgical Department,13,EA,47,611
+09-11-2022,PO0734,IT19,Plaster,Terumo,Toyon Associates Inc,Nursing Department,10,EA,30,300
+16-04-2022,PO0735,IT20,Cotton Wool,Nipro,Healthcare IP,Outpatient Department,10,EA,28,280
+18-12-2022,PO0736,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Paramedical Department,1,EA,11,11
+04-06-2021,PO0737,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Nursing Department,12,EA,11,132
+26-10-2022,PO0738,IT23,Dropper,Advin Healthcare,FGA Inc,Nursing Department,1,EA,44,44
+06-08-2022,PO0739,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Nursing Department,5,EA,9,45
+30-03-2022,PO0740,IT25,Cane,Smiths Medical,OmniSys,Paramedical Department,10,EA,48,480
+07-09-2022,PO0741,IT26,Surgical Clamps,Cardinal Health,Etactics,Surgical Department,35,EA,3,105
+03-12-2021,PO0742,IT27,Forceps,Becton Dickinson,HealthXNet,Surgical Department,15,EA,17,255
+25-08-2022,PO0743,IT28,Surgical Table,General Electric,CompMed,Nursing Department,1600,EA,27,43200
+26-12-2021,PO0744,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Paramedical Department,60,EA,20,1200
+17-01-2022,PO0745,IT30,Instrument Table,Siemens Healthineers,Ability Network,Nursing Department,60,EA,8,480
+15-01-2022,PO0746,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Paramedical Department,3000,EA,42,126000
+08-06-2022,PO0747,IT32,Mayo Stands,Teleflex,Noble House,Outpatient Department,85,EA,41,3485
+30-04-2021,PO0748,IT33,Kickbuckets,3M Company,eSolutions,Surgical Department,15,EA,43,645
+06-04-2021,PO0749,IT34,Arm Supports,Terumo,Experian Health Inc,Paramedical Department,5,EA,28,140
+02-06-2022,PO0750,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Paramedical Department,250,EA,20,5000
+21-05-2021,PO0751,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Surgical Department,1200,EA,13,15600
+17-04-2022,PO0752,IT37,Defibrillators,Ribbel International Ltd,myhELO,Outpatient Department,1500,EA,1,1500
+12-06-2021,PO0753,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Nursing Department,80,EA,23,1840
+19-10-2021,PO0754,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Nursing Department,165,EA,3,495
+05-04-2022,PO0755,IT40,Needle Holder,Smiths Medical,Healthcare IP,Outpatient Department,25,EA,5,125
+21-12-2022,PO0756,IT41,Medicine Cup,Cardinal Health,WellSky,Paramedical Department,5,EA,16,80
+06-01-2022,PO0757,IT42,Gauze,Becton Dickinson,Rivet,Nursing Department,7,EA,2,14
+13-04-2021,PO0758,IT43,Forceps,General Electric,FGA Inc,Outpatient Department,15,EA,41,615
+19-11-2021,PO0759,IT44,Trays,Medtronic PLC,Quadax Inc,Radiology Department,10,EA,44,440
+24-10-2022,PO0760,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Nursing Department,1,EA,33,33
+07-11-2021,PO0761,IT46,Surgical lights,Johnson & Johnson,Etactics,Nursing Department,2000,EA,42,84000
+04-07-2021,PO0762,IT47,Anesthesia machine,Teleflex,HealthXNet,Paramedical Department,875,EA,25,21875
+11-04-2022,PO0763,IT48,Walkers,3M Company,CompMed,Paramedical Department,20,EA,49,980
+21-05-2022,PO0764,IT49,Tourniquet,Terumo,Ritiko LLC,Surgical Department,260,EA,30,7800
+16-01-2022,PO0765,IT50,Splints,Nipro,Ability Network,Outpatient Department,12,EA,47,564
+19-04-2021,PO0766,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Surgical Department,7,EA,12,84
+02-09-2021,PO0767,IT52,ECG Machine,Ribbel International Ltd,Noble House,Surgical Department,300,EA,18,5400
+18-05-2022,PO0768,IT53,Nebulizers,Advin Healthcare,eSolutions,Surgical Department,15,EA,47,705
+24-03-2022,PO0769,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Paramedical Department,12,EA,21,252
+31-10-2021,PO0770,IT55,Braces,Smiths Medical,Eligible Inc,Surgical Department,60,EA,6,360
+19-07-2021,PO0771,IT1,Stethscope,Johnson & Johnson,WellSky,Paramedical Department,150,EA,23,3450
+22-10-2021,PO0772,IT2,Scissor,Teleflex,Rivet,Surgical Department,5,EA,35,175
+26-12-2021,PO0773,IT3,Stretcher,3M Company,FGA Inc,Paramedical Department,2000,EA,36,72000
+05-08-2021,PO0774,IT4,Magnifier,Terumo,Quadax Inc,Paramedical Department,8,EA,31,248
+11-09-2021,PO0775,IT5,Weighing Scale,Nipro,OmniSys,Outpatient Department,20,EA,42,840
+19-03-2022,PO0776,IT6,Torch,Poly Medicure Ltd,Etactics,Outpatient Department,5,EA,15,75
+25-05-2022,PO0777,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Nursing Department,1,EA,23,23
+29-09-2022,PO0778,IT8,First Aid Kit,Advin Healthcare,CompMed,Surgical Department,10,EA,38,380
+18-05-2022,PO0779,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Surgical Department,2,EA,45,90
+02-05-2021,PO0780,IT10,Scalpel,Smiths Medical,Ability Network,Outpatient Department,5,EA,17,85
+01-07-2022,PO0781,IT11,Microscope,Cardinal Health,Prevounce Health,Paramedical Department,1200,EA,12,14400
+19-02-2022,PO0782,IT12,Otoscope,Becton Dickinson,Noble House,Outpatient Department,150,EA,40,6000
+06-06-2021,PO0783,IT13,Thermometer,General Electric,eSolutions,Nursing Department,35,EA,15,525
+03-09-2021,PO0784,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Surgical Department,12,EA,18,216
+25-02-2022,PO0785,IT15,Syringe,Siemens Healthineers,Eligible Inc,Nursing Department,35,EA,16,560
+30-04-2021,PO0786,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Outpatient Department,2000,EA,2,4000
+18-02-2022,PO0787,IT17,Bandag,Teleflex,myhELO,Nursing Department,2,EA,26,52
+12-06-2021,PO0788,IT18,Crutches,3M Company,Prevounce Health,Paramedical Department,13,EA,30,390
+04-11-2022,PO0789,IT19,Plaster,Terumo,Toyon Associates Inc,Nursing Department,10,EA,30,300
+10-05-2021,PO0790,IT20,Cotton Wool,Nipro,Healthcare IP,Surgical Department,10,EA,11,110
+23-03-2022,PO0791,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Surgical Department,1,EA,30,30
+08-06-2021,PO0792,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Surgical Department,12,EA,8,96
+12-10-2021,PO0793,IT23,Dropper,Advin Healthcare,FGA Inc,Surgical Department,1,EA,26,26
+11-04-2022,PO0794,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Nursing Department,5,EA,12,60
+15-09-2021,PO0795,IT25,Cane,Smiths Medical,OmniSys,Surgical Department,10,EA,27,270
+19-05-2022,PO0796,IT26,Surgical Clamps,Cardinal Health,Etactics,Surgical Department,35,EA,39,1365
+07-05-2022,PO0797,IT27,Forceps,Becton Dickinson,HealthXNet,Surgical Department,15,EA,7,105
+04-12-2021,PO0798,IT28,Surgical Table,General Electric,CompMed,Surgical Department,1600,EA,21,33600
+30-06-2021,PO0799,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Paramedical Department,60,EA,19,1140
+18-06-2021,PO0800,IT30,Instrument Table,Siemens Healthineers,Ability Network,Outpatient Department,60,EA,35,2100
+08-04-2022,PO0801,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Surgical Department,3000,EA,19,57000
+07-05-2022,PO0802,IT32,Mayo Stands,Teleflex,Noble House,Paramedical Department,85,EA,50,4250
+17-11-2022,PO0803,IT33,Kickbuckets,3M Company,eSolutions,Nursing Department,15,EA,1,15
+19-07-2022,PO0804,IT34,Arm Supports,Terumo,Experian Health Inc,Nursing Department,5,EA,13,65
+16-10-2021,PO0805,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Nursing Department,250,EA,38,9500
+17-06-2022,PO0806,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Nursing Department,1200,EA,35,42000
+03-09-2021,PO0807,IT37,Defibrillators,Ribbel International Ltd,myhELO,Nursing Department,1500,EA,15,22500
+13-12-2022,PO0808,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Nursing Department,80,EA,5,400
+14-08-2022,PO0809,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Surgical Department,165,EA,42,6930
+18-05-2022,PO0810,IT40,Needle Holder,Smiths Medical,Healthcare IP,Surgical Department,25,EA,21,525
+30-05-2022,PO0811,IT41,Medicine Cup,Cardinal Health,WellSky,Paramedical Department,5,EA,3,15
+04-12-2022,PO0812,IT42,Gauze,Becton Dickinson,Rivet,Surgical Department,7,EA,15,105
+28-09-2021,PO0813,IT43,Forceps,General Electric,FGA Inc,Nursing Department,15,EA,12,180
+25-04-2022,PO0814,IT44,Trays,Medtronic PLC,Quadax Inc,Radiology Department,10,EA,4,40
+15-12-2021,PO0815,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Paramedical Department,1,EA,35,35
+18-08-2022,PO0816,IT46,Surgical lights,Johnson & Johnson,Etactics,Outpatient Department,2000,EA,48,96000
+31-07-2022,PO0817,IT47,Anesthesia machine,Teleflex,HealthXNet,Surgical Department,875,EA,11,9625
+02-09-2022,PO0818,IT48,Walkers,3M Company,CompMed,Surgical Department,20,EA,10,200
+15-10-2022,PO0819,IT49,Tourniquet,Terumo,Ritiko LLC,Nursing Department,260,EA,2,520
+30-11-2021,PO0820,IT50,Splints,Nipro,Ability Network,Nursing Department,12,EA,16,192
+04-04-2022,PO0821,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Outpatient Department,7,EA,49,343
+19-12-2021,PO0822,IT52,ECG Machine,Ribbel International Ltd,Noble House,Surgical Department,300,EA,29,8700
+14-09-2021,PO0823,IT53,Nebulizers,Advin Healthcare,eSolutions,Paramedical Department,15,EA,32,480
+16-07-2022,PO0824,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Radiology Department,12,EA,49,588
+17-11-2021,PO0825,IT55,Braces,Smiths Medical,Eligible Inc,Surgical Department,60,EA,43,2580
+18-08-2021,PO0826,IT1,Stethscope,Johnson & Johnson,WellSky,Surgical Department,150,EA,35,5250
+17-07-2022,PO0827,IT2,Scissor,Teleflex,Rivet,Nursing Department,5,EA,43,215
+02-05-2022,PO0828,IT3,Stretcher,3M Company,FGA Inc,Surgical Department,2000,EA,6,12000
+15-09-2022,PO0829,IT4,Magnifier,Terumo,Quadax Inc,Nursing Department,8,EA,27,216
+15-06-2022,PO0830,IT5,Weighing Scale,Nipro,OmniSys,Nursing Department,20,EA,19,380
+30-11-2022,PO0831,IT6,Torch,Poly Medicure Ltd,Etactics,Nursing Department,5,EA,38,190
+04-08-2021,PO0832,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Nursing Department,1,EA,39,39
+22-08-2022,PO0833,IT8,First Aid Kit,Advin Healthcare,CompMed,Surgical Department,10,EA,28,280
+13-04-2021,PO0834,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Surgical Department,2,EA,1,2
+16-04-2022,PO0835,IT10,Scalpel,Smiths Medical,Ability Network,Surgical Department,5,EA,11,55
+05-01-2022,PO0836,IT11,Microscope,Cardinal Health,Prevounce Health,Surgical Department,1200,EA,17,20400
+16-07-2021,PO0837,IT12,Otoscope,Becton Dickinson,Noble House,Paramedical Department,150,EA,31,4650
+11-09-2021,PO0838,IT13,Thermometer,General Electric,eSolutions,Surgical Department,35,EA,7,245
+18-11-2022,PO0839,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Paramedical Department,12,EA,8,96
+01-12-2021,PO0840,IT15,Syringe,Siemens Healthineers,Eligible Inc,Paramedical Department,35,EA,2,70
+01-01-2022,PO0841,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Surgical Department,2000,EA,40,80000
+14-07-2021,PO0842,IT17,Bandag,Teleflex,myhELO,Surgical Department,2,EA,43,86
+11-04-2021,PO0843,IT18,Crutches,3M Company,Prevounce Health,Nursing Department,13,EA,12,156
+12-09-2022,PO0844,IT19,Plaster,Terumo,Toyon Associates Inc,Paramedical Department,10,EA,26,260
+12-12-2021,PO0845,IT20,Cotton Wool,Nipro,Healthcare IP,Surgical Department,10,EA,31,310
+16-08-2021,PO0846,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Surgical Department,1,EA,13,13
+03-12-2022,PO0847,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Nursing Department,12,EA,40,480
+22-10-2021,PO0848,IT23,Dropper,Advin Healthcare,FGA Inc,Surgical Department,1,EA,31,31
+11-10-2022,PO0849,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Surgical Department,5,EA,35,175
+21-05-2021,PO0850,IT25,Cane,Smiths Medical,OmniSys,Surgical Department,10,EA,35,350
+06-04-2021,PO0851,IT26,Surgical Clamps,Cardinal Health,Etactics,Nursing Department,35,EA,17,595
+08-07-2021,PO0852,IT27,Forceps,Becton Dickinson,HealthXNet,Surgical Department,15,EA,23,345
+19-01-2022,PO0853,IT28,Surgical Table,General Electric,CompMed,Surgical Department,1600,EA,25,40000
+11-08-2021,PO0854,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Radiology Department,60,EA,4,240
+25-07-2021,PO0855,IT30,Instrument Table,Siemens Healthineers,Ability Network,Paramedical Department,60,EA,32,1920
+03-08-2021,PO0856,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Surgical Department,3000,EA,49,147000
+02-07-2021,PO0857,IT32,Mayo Stands,Teleflex,Noble House,Nursing Department,85,EA,25,2125
+27-12-2022,PO0858,IT33,Kickbuckets,3M Company,eSolutions,Radiology Department,15,EA,21,315
+21-12-2021,PO0859,IT34,Arm Supports,Terumo,Experian Health Inc,Nursing Department,5,EA,26,130
+12-08-2021,PO0860,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Surgical Department,250,EA,20,5000
+21-09-2022,PO0861,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Surgical Department,1200,EA,37,44400
+26-08-2022,PO0862,IT37,Defibrillators,Ribbel International Ltd,myhELO,Surgical Department,1500,EA,32,48000
+29-08-2022,PO0863,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Outpatient Department,80,EA,9,720
+01-07-2022,PO0864,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Nursing Department,165,EA,3,495
+02-01-2022,PO0865,IT40,Needle Holder,Smiths Medical,Healthcare IP,Surgical Department,25,EA,35,875
+25-12-2022,PO0866,IT41,Medicine Cup,Cardinal Health,WellSky,Surgical Department,5,EA,35,175
+24-09-2022,PO0867,IT42,Gauze,Becton Dickinson,Rivet,Surgical Department,7,EA,4,28
+16-07-2021,PO0868,IT43,Forceps,General Electric,FGA Inc,Nursing Department,15,EA,47,705
+05-02-2022,PO0869,IT44,Trays,Medtronic PLC,Quadax Inc,Nursing Department,10,EA,22,220
+25-06-2022,PO0870,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Nursing Department,1,EA,28,28
+10-09-2022,PO0871,IT46,Surgical lights,Johnson & Johnson,Etactics,Paramedical Department,2000,EA,32,64000
+10-12-2021,PO0872,IT47,Anesthesia machine,Teleflex,HealthXNet,Radiology Department,875,EA,5,4375
+19-10-2021,PO0873,IT48,Walkers,3M Company,CompMed,Paramedical Department,20,EA,49,980
+13-09-2021,PO0874,IT49,Tourniquet,Terumo,Ritiko LLC,Outpatient Department,260,EA,38,9880
+20-12-2021,PO0875,IT50,Splints,Nipro,Ability Network,Paramedical Department,12,EA,36,432
+16-07-2022,PO0876,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Surgical Department,7,EA,26,182
+17-09-2021,PO0877,IT52,ECG Machine,Ribbel International Ltd,Noble House,Paramedical Department,300,EA,21,6300
+21-07-2021,PO0878,IT53,Nebulizers,Advin Healthcare,eSolutions,Surgical Department,15,EA,30,450
+22-01-2022,PO0879,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Surgical Department,12,EA,33,396
+30-10-2022,PO0880,IT55,Braces,Smiths Medical,Eligible Inc,Surgical Department,60,EA,10,600
+28-05-2021,PO0881,IT1,Stethscope,Johnson & Johnson,WellSky,Nursing Department,150,EA,50,7500
+28-10-2021,PO0882,IT2,Scissor,Teleflex,Rivet,Surgical Department,5,EA,29,145
+11-04-2022,PO0883,IT3,Stretcher,3M Company,FGA Inc,Radiology Department,2000,EA,25,50000
+21-12-2022,PO0884,IT4,Magnifier,Terumo,Quadax Inc,Paramedical Department,8,EA,31,248
+05-09-2022,PO0885,IT5,Weighing Scale,Nipro,OmniSys,Radiology Department,20,EA,20,400
+27-07-2021,PO0886,IT6,Torch,Poly Medicure Ltd,Etactics,Paramedical Department,5,EA,46,230
+13-02-2022,PO0887,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Surgical Department,1,EA,47,47
+19-06-2021,PO0888,IT8,First Aid Kit,Advin Healthcare,CompMed,Outpatient Department,10,EA,2,20
+22-06-2021,PO0889,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Surgical Department,2,EA,49,98
+27-12-2022,PO0890,IT10,Scalpel,Smiths Medical,Ability Network,Nursing Department,5,EA,39,195
+07-09-2022,PO0891,IT11,Microscope,Cardinal Health,Prevounce Health,Nursing Department,1200,EA,29,34800
+13-01-2022,PO0892,IT12,Otoscope,Becton Dickinson,Noble House,Nursing Department,150,EA,20,3000
+08-09-2021,PO0893,IT13,Thermometer,General Electric,eSolutions,Outpatient Department,35,EA,44,1540
+22-10-2021,PO0894,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Surgical Department,12,EA,46,552
+25-11-2022,PO0895,IT15,Syringe,Siemens Healthineers,Eligible Inc,Nursing Department,35,EA,8,280
+16-11-2021,PO0896,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Paramedical Department,2000,EA,34,68000
+26-07-2021,PO0897,IT17,Bandag,Teleflex,myhELO,Paramedical Department,2,EA,14,28
+28-07-2021,PO0898,IT18,Crutches,3M Company,Prevounce Health,Paramedical Department,13,EA,25,325
+26-11-2021,PO0899,IT19,Plaster,Terumo,Toyon Associates Inc,Surgical Department,10,EA,28,280
+21-06-2022,PO0900,IT20,Cotton Wool,Nipro,Healthcare IP,Surgical Department,10,EA,36,360
+09-09-2021,PO0901,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Surgical Department,1,EA,20,20
+19-12-2022,PO0902,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Surgical Department,12,EA,31,372
+15-07-2021,PO0903,IT23,Dropper,Advin Healthcare,FGA Inc,Nursing Department,1,EA,22,22
+17-08-2021,PO0904,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Surgical Department,5,EA,45,225
+02-10-2022,PO0905,IT25,Cane,Smiths Medical,OmniSys,Surgical Department,10,EA,48,480
+03-04-2022,PO0906,IT26,Surgical Clamps,Cardinal Health,Etactics,Paramedical Department,35,EA,31,1085
+21-07-2022,PO0907,IT27,Forceps,Becton Dickinson,HealthXNet,Paramedical Department,15,EA,32,480
+11-06-2021,PO0908,IT28,Surgical Table,General Electric,CompMed,Paramedical Department,1600,EA,40,64000
+13-08-2022,PO0909,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Paramedical Department,60,EA,31,1860
+09-10-2022,PO0910,IT30,Instrument Table,Siemens Healthineers,Ability Network,Paramedical Department,60,EA,12,720
+28-08-2022,PO0911,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Outpatient Department,3000,EA,39,117000
+05-05-2022,PO0912,IT32,Mayo Stands,Teleflex,Noble House,Nursing Department,85,EA,46,3910
+02-12-2021,PO0913,IT33,Kickbuckets,3M Company,eSolutions,Nursing Department,15,EA,50,750
+25-01-2022,PO0914,IT34,Arm Supports,Terumo,Experian Health Inc,Surgical Department,5,EA,45,225
+04-07-2022,PO0915,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Paramedical Department,250,EA,34,8500
+24-10-2021,PO0916,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Nursing Department,1200,EA,6,7200
+16-02-2022,PO0917,IT37,Defibrillators,Ribbel International Ltd,myhELO,Radiology Department,1500,EA,20,30000
+10-06-2021,PO0918,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Surgical Department,80,EA,42,3360
+15-07-2021,PO0919,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Outpatient Department,165,EA,6,990
+08-09-2021,PO0920,IT40,Needle Holder,Smiths Medical,Healthcare IP,Outpatient Department,25,EA,14,350
+01-08-2022,PO0921,IT41,Medicine Cup,Cardinal Health,WellSky,Paramedical Department,5,EA,13,65
+26-09-2021,PO0922,IT42,Gauze,Becton Dickinson,Rivet,Surgical Department,7,EA,8,56
+15-12-2021,PO0923,IT43,Forceps,General Electric,FGA Inc,Nursing Department,15,EA,28,420
+19-02-2022,PO0924,IT44,Trays,Medtronic PLC,Quadax Inc,Outpatient Department,10,EA,13,130
+23-06-2021,PO0925,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Outpatient Department,1,EA,36,36
+09-03-2022,PO0926,IT46,Surgical lights,Johnson & Johnson,Etactics,Outpatient Department,2000,EA,5,10000
+03-08-2021,PO0927,IT47,Anesthesia machine,Teleflex,HealthXNet,Nursing Department,875,EA,11,9625
+23-10-2022,PO0928,IT48,Walkers,3M Company,CompMed,Surgical Department,20,EA,44,880
+03-12-2021,PO0929,IT49,Tourniquet,Terumo,Ritiko LLC,Outpatient Department,260,EA,8,2080
+16-05-2021,PO0930,IT50,Splints,Nipro,Ability Network,Nursing Department,12,EA,38,456
+05-04-2022,PO0931,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Nursing Department,7,EA,25,175
+15-12-2021,PO0932,IT52,ECG Machine,Ribbel International Ltd,Noble House,Nursing Department,300,EA,43,12900
+11-09-2021,PO0933,IT53,Nebulizers,Advin Healthcare,eSolutions,Nursing Department,15,EA,2,30
+22-05-2021,PO0934,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Paramedical Department,12,EA,3,36
+22-11-2021,PO0935,IT55,Braces,Smiths Medical,Eligible Inc,Outpatient Department,60,EA,14,840
+24-10-2021,PO0936,IT1,Stethscope,Johnson & Johnson,WellSky,Nursing Department,150,EA,30,4500
+08-04-2022,PO0937,IT2,Scissor,Teleflex,Rivet,Surgical Department,5,EA,28,140
+16-04-2021,PO0938,IT3,Stretcher,3M Company,FGA Inc,Nursing Department,2000,EA,44,88000
+09-09-2022,PO0939,IT4,Magnifier,Terumo,Quadax Inc,Surgical Department,8,EA,21,168
+23-04-2021,PO0940,IT5,Weighing Scale,Nipro,OmniSys,Surgical Department,20,EA,50,1000
+31-12-2021,PO0941,IT6,Torch,Poly Medicure Ltd,Etactics,Surgical Department,5,EA,23,115
+09-06-2022,PO0942,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Nursing Department,1,EA,6,6
+30-11-2022,PO0943,IT8,First Aid Kit,Advin Healthcare,CompMed,Nursing Department,10,EA,1,10
+12-04-2022,PO0944,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Nursing Department,2,EA,30,60
+07-09-2022,PO0945,IT10,Scalpel,Smiths Medical,Ability Network,Outpatient Department,5,EA,28,140
+17-06-2021,PO0946,IT11,Microscope,Cardinal Health,Prevounce Health,Paramedical Department,1200,EA,16,19200
+15-03-2022,PO0947,IT12,Otoscope,Becton Dickinson,Noble House,Radiology Department,150,EA,6,900
+21-07-2022,PO0948,IT13,Thermometer,General Electric,eSolutions,Surgical Department,35,EA,40,1400
+14-06-2022,PO0949,IT14,Saline Bag,Medtronic PLC,Experian Health Inc,Surgical Department,12,EA,2,24
+05-07-2022,PO0950,IT15,Syringe,Siemens Healthineers,Eligible Inc,Nursing Department,35,EA,19,665
+17-09-2021,PO0951,IT16,X-ray Machine,Johnson & Johnson,Cerner Health Services HDX,Outpatient Department,2000,EA,12,24000
+25-11-2022,PO0952,IT17,Bandag,Teleflex,myhELO,Outpatient Department,2,EA,7,14
+30-04-2021,PO0953,IT18,Crutches,3M Company,Prevounce Health,Surgical Department,13,EA,11,143
+12-02-2022,PO0954,IT19,Plaster,Terumo,Toyon Associates Inc,Nursing Department,10,EA,3,30
+26-08-2021,PO0955,IT20,Cotton Wool,Nipro,Healthcare IP,Surgical Department,10,EA,5,50
+29-05-2021,PO0956,IT21,Surgical Mask,Poly Medicure Ltd,WellSky,Nursing Department,1,EA,22,22
+04-02-2022,PO0957,IT22,Oxygen Mask,Ribbel International Ltd,Rivet,Surgical Department,12,EA,46,552
+28-10-2022,PO0958,IT23,Dropper,Advin Healthcare,FGA Inc,Nursing Department,1,EA,48,48
+12-04-2021,PO0959,IT24,Needle,Aegis Lifesciences Private Limited,Quadax Inc,Surgical Department,5,EA,15,75
+25-04-2022,PO0960,IT25,Cane,Smiths Medical,OmniSys,Nursing Department,10,EA,2,20
+26-09-2022,PO0961,IT26,Surgical Clamps,Cardinal Health,Etactics,Surgical Department,35,EA,8,280
+12-10-2021,PO0962,IT27,Forceps,Becton Dickinson,HealthXNet,Outpatient Department,15,EA,19,285
+14-07-2021,PO0963,IT28,Surgical Table,General Electric,CompMed,Surgical Department,1600,EA,34,54400
+27-04-2022,PO0964,IT29,Utility Table,Medtronic PLC,Ritiko LLC,Outpatient Department,60,EA,33,1980
+11-12-2022,PO0965,IT30,Instrument Table,Siemens Healthineers,Ability Network,Paramedical Department,60,EA,38,2280
+21-02-2022,PO0966,IT31,Ventilator,Johnson & Johnson,Prevounce Health,Paramedical Department,3000,EA,35,105000
+14-10-2021,PO0967,IT32,Mayo Stands,Teleflex,Noble House,Surgical Department,85,EA,35,2975
+26-12-2022,PO0968,IT33,Kickbuckets,3M Company,eSolutions,Surgical Department,15,EA,20,300
+17-02-2022,PO0969,IT34,Arm Supports,Terumo,Experian Health Inc,Nursing Department,5,EA,35,175
+25-08-2022,PO0970,IT35,Medical Syringe Infusion,Nipro,Eligible Inc,Surgical Department,250,EA,44,11000
+07-09-2021,PO0971,IT36,Pacemakers,Poly Medicure Ltd,Cerner Health Services HDX,Surgical Department,1200,EA,48,57600
+15-06-2022,PO0972,IT37,Defibrillators,Ribbel International Ltd,myhELO,Outpatient Department,1500,EA,31,46500
+10-07-2021,PO0973,IT38,Wheelchairs,Advin Healthcare,Prevounce Health,Paramedical Department,80,EA,46,3680
+19-05-2021,PO0974,IT39,Traction Equipment,Aegis Lifesciences Private Limited,Toyon Associates Inc,Surgical Department,165,EA,30,4950
+26-02-2022,PO0975,IT40,Needle Holder,Smiths Medical,Healthcare IP,Surgical Department,25,EA,46,1150
+30-03-2022,PO0976,IT41,Medicine Cup,Cardinal Health,WellSky,Surgical Department,5,EA,26,130
+28-11-2022,PO0977,IT42,Gauze,Becton Dickinson,Rivet,Surgical Department,7,EA,50,350
+25-06-2022,PO0978,IT43,Forceps,General Electric,FGA Inc,Paramedical Department,15,EA,5,75
+25-05-2021,PO0979,IT44,Trays,Medtronic PLC,Quadax Inc,Surgical Department,10,EA,17,170
+22-10-2022,PO0980,IT45,Cotton Swabs,Siemens Healthineers,OmniSys,Surgical Department,1,EA,45,45
+30-03-2022,PO0981,IT46,Surgical lights,Johnson & Johnson,Etactics,Nursing Department,2000,EA,3,6000
+26-11-2022,PO0982,IT47,Anesthesia machine,Teleflex,HealthXNet,Outpatient Department,875,EA,33,28875
+28-05-2021,PO0983,IT48,Walkers,3M Company,CompMed,Radiology Department,20,EA,4,80
+22-02-2022,PO0984,IT49,Tourniquet,Terumo,Ritiko LLC,Radiology Department,260,EA,24,6240
+18-03-2022,PO0985,IT50,Splints,Nipro,Ability Network,Outpatient Department,12,EA,46,552
+08-06-2021,PO0986,IT51,Slings,Poly Medicure Ltd,Prevounce Health,Paramedical Department,7,EA,2,14
+31-10-2022,PO0987,IT52,ECG Machine,Ribbel International Ltd,Noble House,Surgical Department,300,EA,32,9600
+10-04-2021,PO0988,IT53,Nebulizers,Advin Healthcare,eSolutions,Surgical Department,15,EA,50,750
+01-12-2021,PO0989,IT54,Sutures,Aegis Lifesciences Private Limited,Experian Health Inc,Surgical Department,12,EA,43,516
+10-04-2021,PO0990,IT55,Braces,Smiths Medical,Eligible Inc,Surgical Department,60,EA,11,660
+12-06-2021,PO0991,IT1,Stethscope,Johnson & Johnson,WellSky,Nursing Department,150,EA,37,5550
+19-08-2021,PO0992,IT2,Scissor,Teleflex,Rivet,Outpatient Department,5,EA,19,95
+25-03-2022,PO0993,IT3,Stretcher,3M Company,FGA Inc,Nursing Department,2000,EA,26,52000
+25-12-2021,PO0994,IT4,Magnifier,Terumo,Quadax Inc,Surgical Department,8,EA,22,176
+13-01-2022,PO0995,IT5,Weighing Scale,Nipro,OmniSys,Radiology Department,20,EA,25,500
+25-11-2021,PO0996,IT6,Torch,Poly Medicure Ltd,Etactics,Paramedical Department,5,EA,25,125
+17-11-2022,PO0997,IT7,Face Mask,Ribbel International Ltd,HealthXNet,Nursing Department,1,EA,10,10
+31-07-2021,PO0998,IT8,First Aid Kit,Advin Healthcare,CompMed,Nursing Department,10,EA,36,360
+12-02-2022,PO0999,IT9,Gloves,Aegis Lifesciences Private Limited,Ritiko LLC,Outpatient Department,2,EA,3,6
+24-02-2022,PO1000,IT10,Scalpel,Smiths Medical,Ability Network,Nursing Department,5,EA,4,20

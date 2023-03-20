@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Loan Approval Prediction</title>
+    <style type = "text/css">
+        label {
+            width:160px;
+            display: inline-block;
+        }
+        submit {width:200px}
+    </style>
+</head>
+<body>
+    <center>
+        <h1 style="color:rgb(128, 0, 28);">Welcom To The Bank</h1>
+  
+        <h2>Check Your Loan Approval Status ::</h2>
+    </center>
+    <h3> Please Enter Valid Information :</h3>
+
+    <form method="post" action ="/Loan_Prediction" >
+
+        <label><b>Gender :</b></label>
+        <select name="User_Gender">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+          </select>
+        <br>
+        <br>
+        <label><b>Married :</b></label>
+        <select name="User_Married">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+          </select>
+        <br>
+        <br>
+
+
+        <label><b>Dependents :</b></label>
+        <select name="User_Dependents">
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3+</option>
+          </select>
+        <br>
+        <br>
+
+
+        <label><b>Education :</b></label>
+        <select name="User_Education">
+            <option value="Graduate">Graduate</option>
+            <option value="Not Graduate">Not_Graduate</option>
+          </select>
+        <br>
+        <br>
+
+
+        <label><b>Self_Employed :</b></label>
+        <select name="Uesr_Self_Employed">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+          </select>
+        <br>
+        <br>
+
+
+        <label><b>ApplicantIncome :</b></label>
+        <input type="text" name="User_ApplicantIncome" required><br>
+        <br>
+
+
+        <label><b>CoapplicantIncome :</b></label>
+        <input type="text" name="User_CoapplicantIncome" required><br>
+        <br>
+
+
+        <label><b>LoanAmount :</b></label>
+        <input type="text" name="Uesr_LoanAmount" required><br>
+        <br>
+
+
+        <label><b>Loan_Amount_Term :</b></label>
+        <input type="text" name="User_Loan_Amount_Term" required><br>
+        <br>
+
+
+        <label><b>Credit_History:</b></label>
+        <input type="text" name="Uesr_Credit_History" required><br>
+        <br>
+
+
+        <label><b>Property_Area:</b></label>
+        <select name="User_Property_Area">
+            <option value="Urban">Urban</option>
+            <option value="Semiurban">Semiurban</option>
+            <option value="Rural">Rural</option>
+           </select>
+        
+        <center>
+        <input type="submit" value="Result" ><br><br>
+        </center>
+        
+        <h1>{{Loan_Prediction}}<h1>
+    
+    </form>
+
+</body>
+</html>
